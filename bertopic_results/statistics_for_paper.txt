@@ -1,0 +1,23 @@
+STATISTICS FOR SYSTEMATIC LITERATURE REVIEW
+================================================================================
+
+Total Papers Analyzed: 3453
+Topics Discovered: 14
+Outliers: 1393 (40.3%)
+
+TOPIC DISTRIBUTION:
+--------------------------------------------------------------------------------
+Topic 0: 562 papers (16.3%)
+Topic 1: 298 papers (8.6%)
+Topic 2: 278 papers (8.1%)
+Topic 3: 212 papers (6.1%)
+Topic 4: 141 papers (4.1%)
+Topic 5: 121 papers (3.5%)
+Topic 6: 86 papers (2.5%)
+Topic 7: 80 papers (2.3%)
+Topic 8: 70 papers (2.0%)
+Topic 9: 53 papers (1.5%)
+Topic 10: 45 papers (1.3%)
+Topic 11: 40 papers (1.2%)
+Topic 12: 39 papers (1.1%)
+Topic 13: 35 papers (1.0%)

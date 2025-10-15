@@ -1,0 +1,185 @@
+TOPIC MODELING RESULTS
+================================================================================
+
+Topic 0 (562 papers)
+--------------------------------------------------------------------------------
+  data: 0.0518
+  blockchain: 0.0472
+  security: 0.0290
+  technology: 0.0283
+  system: 0.0263
+  scheme: 0.0253
+  blockchain technology: 0.0223
+  storage: 0.0221
+  sharing: 0.0204
+  access: 0.0200
+
+Topic 1 (298 papers)
+--------------------------------------------------------------------------------
+  industry: 0.0506
+  technologies: 0.0458
+  digital: 0.0456
+  supply: 0.0444
+  40: 0.0413
+  industry 40: 0.0384
+  supply chain: 0.0370
+  chain: 0.0356
+  manufacturing: 0.0272
+  transformation: 0.0270
+
+Topic 2 (278 papers)
+--------------------------------------------------------------------------------
+  medical: 0.0783
+  healthcare: 0.0774
+  health: 0.0633
+  data: 0.0513
+  patients: 0.0315
+  medical data: 0.0276
+  blockchain: 0.0267
+  care: 0.0265
+  privacy: 0.0262
+  records: 0.0250
+
+Topic 3 (212 papers)
+--------------------------------------------------------------------------------
+  learning: 0.0798
+  federated: 0.0522
+  federated learning: 0.0477
+  model: 0.0445
+  data: 0.0438
+  privacy: 0.0397
+  fl: 0.0378
+  training: 0.0339
+  machine: 0.0285
+  machine learning: 0.0280
+
+Topic 4 (141 papers)
+--------------------------------------------------------------------------------
+  consensus: 0.0708
+  edge: 0.0483
+  blockchain: 0.0421
+  nodes: 0.0421
+  computing: 0.0406
+  algorithm: 0.0350
+  performance: 0.0303
+  node: 0.0278
+  latency: 0.0274
+  protocol: 0.0267
+
+Topic 5 (121 papers)
+--------------------------------------------------------------------------------
+  education: 0.1025
+  metaverse: 0.0973
+  educational: 0.0516
+  system: 0.0322
+  technology: 0.0304
+  blockchain: 0.0298
+  development: 0.0288
+  data: 0.0281
+  information: 0.0257
+  technologies: 0.0254
+
+Topic 6 (86 papers)
+--------------------------------------------------------------------------------
+  agriculture: 0.0866
+  food: 0.0837
+  agricultural: 0.0639
+  technologies: 0.0540
+  production: 0.0347
+  40: 0.0284
+  industry: 0.0270
+  smart: 0.0260
+  review: 0.0259
+  data: 0.0258
+
+Topic 7 (80 papers)
+--------------------------------------------------------------------------------
+  financial: 0.1425
+  fintech: 0.0881
+  banking: 0.0645
+  finance: 0.0494
+  digital: 0.0394
+  banks: 0.0365
+  technology: 0.0346
+  technologies: 0.0335
+  audit: 0.0288
+  ai: 0.0286
+
+Topic 8 (70 papers)
+--------------------------------------------------------------------------------
+  energy: 0.1382
+  power: 0.0984
+  grid: 0.0614
+  data: 0.0340
+  system: 0.0331
+  smart: 0.0330
+  development: 0.0310
+  new: 0.0286
+  electricity: 0.0280
+  big: 0.0280
+
+Topic 9 (53 papers)
+--------------------------------------------------------------------------------
+  vehicles: 0.1145
+  vehicle: 0.0729
+  scheme: 0.0575
+  security: 0.0561
+  authentication: 0.0556
+  communication: 0.0441
+  privacy: 0.0365
+  system: 0.0287
+  internet: 0.0275
+  which: 0.0265
+
+Topic 10 (45 papers)
+--------------------------------------------------------------------------------
+  fraud: 0.0692
+  bitcoin: 0.0625
+  model: 0.0617
+  cryptocurrency: 0.0542
+  ethereum: 0.0539
+  transaction: 0.0451
+  transactions: 0.0434
+  detection: 0.0430
+  price: 0.0390
+  learning: 0.0382
+
+Topic 11 (40 papers)
+--------------------------------------------------------------------------------
+  contracts: 0.1584
+  smart contracts: 0.1301
+  smart: 0.1211
+  contract: 0.1016
+  vulnerabilities: 0.0848
+  vulnerability: 0.0819
+  smart contract: 0.0730
+  detection: 0.0711
+  code: 0.0575
+  methods: 0.0467
+
+Topic 12 (39 papers)
+--------------------------------------------------------------------------------
+  smart: 0.1348
+  city: 0.1033
+  cities: 0.1003
+  smart city: 0.0983
+  urban: 0.0882
+  smart cities: 0.0793
+  technologies: 0.0383
+  traffic: 0.0360
+  development: 0.0356
+  future: 0.0292
+
+Topic 13 (35 papers)
+--------------------------------------------------------------------------------
+  iot: 0.1307
+  devices: 0.0587
+  internet: 0.0524
+  things: 0.0493
+  internet things: 0.0448
+  security: 0.0377
+  network: 0.0370
+  applications: 0.0347
+  privacy: 0.0286
+  data: 0.0282
+

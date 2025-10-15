@@ -1,0 +1,339 @@
+REPRESENTATIVE PAPERS PER TOPIC
+================================================================================
+
+Topic 0
+--------------------------------------------------------------------------------
+
+Paper ID: 8
+Probability: 1.000
+Abstract: The rapid advancement of cloud computing has promoted the development of cloud storage services. One of the biggest concerns of cloud users is whether the completeness and recoverability of data can be guaranteed when cloud servers encounter problems. Only when the integrity of data is fully guarant...
+
+Paper ID: 38
+Probability: 1.000
+Abstract: Many regions are in urgent need of facial masks for slowing down the spread of COVID-19. To fight the pandemic, people are contributing masks through donation systems. Most existing systems are built on a centralized architecture which is prone to the single point of failure and lack of transparency...
+
+Paper ID: 61
+Probability: 1.000
+Abstract: To motivate data owners’ (DOs’) trading willingness, the existing incentive mechanisms allow DOs to independently disturb data following data consumer's (DC’s) availability requirement. However, they cannot motivate DOs’ honest disturbance, which is attributed to DOs’ independent disturbance without...
+
+Paper ID: 90
+Probability: 1.000
+Abstract: The continuous production of large-scale data makes data outsourcing computation a trend. In order to ensure that data outsourcing transaction is trusted and fair, it needs the supervision and judgment of a third party. However, the third-party intermediary increases the transaction cost, and there ...
+
+Paper ID: 97
+Probability: 1.000
+Abstract: Decentralization is essential when trust and performance must not depend on a single organization. Distributed Ledger Technologies (DLTs) and Decentralized Hash Tables (DHTs) are examples where the DLT is useful for transactional events, and the DHT is useful for large-scale data storage. The combin...
+
+
+Topic 1
+--------------------------------------------------------------------------------
+
+Paper ID: 13
+Probability: 1.000
+Abstract: The development of digital technologies, including big data, analytics, blockchain, cloud, and social media, has resulted in a rise in the creation and deployment of digital transformation (DT) strategies by organizations. An organization's value propositions can be improved with the help of DT, cre...
+
+Paper ID: 17
+Probability: 1.000
+Abstract: Logistics information sharing plays a pivotal role in fostering efficient collaboration within the smart supply chain. With the deepening integration of digital technologies such as the Internet of Things (IoT), blockchain, and Artificial Intelligence (AI), inter-enterprise information sharing strat...
+
+Paper ID: 42
+Probability: 1.000
+Abstract: Industry 4.0 (I4.0) has increasingly been adopted as an advanced manufacturing strategy to counter global competition. The capability of a company to compete on various manufacturing strategy outputs (MSOs) such as cost, quality, delivery, flexibility, performance and innovativeness play a significa...
+
+Paper ID: 107
+Probability: 1.000
+Abstract: Data-driven technologies can have a broad impact on innovation management. In the present digital era, it has become a complex and debatable topic that requires refinement from a research perspective. Along this line, this study aims to understand how digital orientation facilitates the adoption of ...
+
+Paper ID: 108
+Probability: 1.000
+Abstract: The market volatility in the oil and gas (O&amp;G) sector, the dwindling demand for oil due to the impact of COVID-19, and the push for alternative greener energy are driving the need for innovation and digitization in the O&amp;G industry. This has attracted research interest from academia and the ...
+
+
+Topic 2
+--------------------------------------------------------------------------------
+
+Paper ID: 53
+Probability: 1.000
+Abstract: A medical cyber–physical system (MCPS) is a unique cyber–physical system (CPS), which combines embedded software control devices, networking capabilities, and complex physiological dynamics of patients in the modern medical field. In the process of communication, device, and information system inter...
+
+Paper ID: 336
+Probability: 1.000
+Abstract: Security in healthcare systems based on blockchain technology is the subject of ongoing research. Block Chain technology has the potential to revolutionize many different sectors since it provides a decentralized, incontestable, and publicly verifiable record of every transaction activity. Bitcoin's...
+
+Paper ID: 346
+Probability: 1.000
+Abstract: Electronic Data Interchange (EDI) has been a trusted form of communication standard for numerous industries since the 1970's. EDI is used for the exchange of data between two or more entities using an agreed upon EDI standard. With the plethora of data being generated across industries and research,...
+
+Paper ID: 401
+Probability: 1.000
+Abstract: Blockchain technology is enabled by consensus algorithms to manage the relationships among several economic or business operators without human intervention. With the help of consensus algorithms, distributed systems can reliably reach agreement even if part of the system is faulty. Blockchain yield...
+
+Paper ID: 417
+Probability: 1.000
+Abstract: Blockchain technology is being popular day by day and also serving in many applications and areas such as Internet of Things, Cloud Computing, Big data, Healthcare and many more because of its security strengths and benefits. It has been proven that blockchain applications are being utilized in heal...
+
+
+Topic 3
+--------------------------------------------------------------------------------
+
+Paper ID: 91
+Probability: 1.000
+Abstract: Edge computing, an emerging computing paradigm pushing data computing and storing to network edges, enables many applications that require high computing complexity, scalability, and security. In the big data era, one of the most critical applications is multiparty learning or federated learning, wh...
+
+Paper ID: 119
+Probability: 1.000
+Abstract: Introduced by Google in 2016, federated learning (FL) is a distributed machine learning framework to ensure data privacy amid the surge in big data. FL enables secure data sharing without accessing local data. Despite its advantages, it faces challenges due to the limited participation of the data o...
+
+Paper ID: 144
+Probability: 1.000
+Abstract: Cognitive computing, a revolutionary AI concept emulating human brain's reasoning process, is progressively flourishing in the Industry 4.0 automation. With the advancement of various AI and machine learning technologies the evolution toward improved decision making as well as data-driven intelligen...
+
+Paper ID: 154
+Probability: 1.000
+Abstract: Federated learning breaks down data silos and promotes the intelligence of the Industrial Internet of Things (IIoT). However, the principal–agent architecture commonly used in federated learning not only increases the cost but also fails to take into account the privacy protection and trustworthines...
+
+Paper ID: 157
+Probability: 1.000
+Abstract: With the rapid development of Big Data, Federated learning (FL) has found numerous applications, enabling machine learning (ML) on edge devices while preserving privacy. However, FL still faces crucial challenges, such as single point of failure and poisoning attacks, which motivate the integration ...
+
+
+Topic 4
+--------------------------------------------------------------------------------
+
+Paper ID: 18
+Probability: 1.000
+Abstract: By using the intelligent edge computing technologies, a large number of computing tasks of end devices in Industrial Internet of Things (IIoT) can be offloaded to edge servers, which can effectively alleviate the burden and enhance the performance of IIoT. However, in large-scale multi-service-orien...
+
+Paper ID: 54
+Probability: 1.000
+Abstract: The rapid growth of the Internet and edge devices has greatly increased the risk of cyber-attacks at the edge layer of computer networks. The rise of edge devices has driven extensive research into their cybersecurity challenges. These devices require robust protection to counter possible cyberattac...
+
+Paper ID: 74
+Probability: 1.000
+Abstract: Edge computing can provide high bandwidth and low-latency service for big data tasks by leveraging the edge side’s computing, storage, and network resources. With the development of microservice and docker technology, service providers can flexibly and dynamically cache microservice at the edge side...
+
+Paper ID: 113
+Probability: 1.000
+Abstract: Blockchain, as an emerging technology, has gained widespread research in academia and industry due to its decentralization and traceability. As an important form of blockchain, consortium chains are often applied in the Internet of Things (IoT) to ensure the authenticity and reliability of data. Wit...
+
+Paper ID: 118
+Probability: 1.000
+Abstract: In contrast to the traditional cloud-based IoT structure, which imposes high computation and storage demands on the central cloud server, edge computing can process data at the network edge. In this article, we present an edge computing data storage protocol employing the blockchain and the group si...
+
+
+Topic 5
+--------------------------------------------------------------------------------
+
+Paper ID: 186
+Probability: 1.000
+Abstract: Based on the cloud platform, the concept and importance of double-precision teaching in wisdom teaching is analyzed, and the basic framework of online and offline wisdom teaching based on blockchain technology is constructed in this paper. Based on the characteristics of blockchain such as security ...
+
+Paper ID: 392
+Probability: 1.000
+Abstract: Currently, due to the physical distance and complex nature of the educational environment, there is room for falsification of educational material for graduate studies. Along with the blooming of Blockchain and Cryptocurrency, an increasing number of researches focus on the transparency brought by t...
+
+Paper ID: 395
+Probability: 1.000
+Abstract: With the continuous development of China's economic construction, various new technologies have been created in this new era, and the operation methods of all sectors of society have also undergone earth-shaking changes on the original basis. At the same time, staff in each field need to think from ...
+
+Paper ID: 426
+Probability: 1.000
+Abstract: At present, the model of “Internet+” has been integrated into every aspect of social life, and the era of big data has accelerated the two-way process of social networking and network socialization. As another disruptive technology after cloud computing, Internet of things and big data, blockchain t...
+
+Paper ID: 477
+Probability: 1.000
+Abstract: College Students information sharing is of great significance for college students' employment and enterprise recruitment, and it can improve the recruitment efficiency. As blockchain technology has been gradually applied to the sharing system in many fields, this paper presents the design of colleg...
+
+
+Topic 6
+--------------------------------------------------------------------------------
+
+Paper ID: 79
+Probability: 1.000
+Abstract: The Kingdom of Saudi Arabia is known for its extreme climate where temperatures can exceed 50 °C, especially in summer. Improving agricultural production can only be achieved using innovative environmentally suitable solutions and modern agricultural technologies. Using Internet of Things (IoT) tech...
+
+Paper ID: 1151
+Probability: 1.000
+Abstract: Farm Practices are relatively high now days the work efficiency on agriculture development so far is increasing as compare to initial era, Initial signs of the projected profound alteration of daily life &amp; agricultural supply chains are already apparent, are indeed supply and distribution networ...
+
+Paper ID: 1305
+Probability: 1.000
+Abstract: For the past few years, the 5G + Internet of Things (IoT) technology and big data mining and analysis applications have gradually entered various areas of people's lives.. The rapid expansion of 5G + IoT and automation technology is the basis for the formation and construction of the smart dairy cat...
+
+Paper ID: 1524
+Probability: 1.000
+Abstract: Digitalization in the field of financial risks, on the one hand, increases the efficiency of risk management, creates new opportunities for preventive analytics and reduces operating costs. The agricultural sector, characterized by seasonality, natural and climatic fluctuations, unstable product pri...
+
+Paper ID: 1664
+Probability: 1.000
+Abstract: In aquaculture, fish growth is closely related to the factors such as water quality, feeding, and diseases. In traditional aquaculture, farm workers judge these factors from observing the growth of fish, and make appropriate adjustment based on experience. In this article, we develop a smart aquacul...
+
+
+Topic 7
+--------------------------------------------------------------------------------
+
+Paper ID: 859
+Probability: 1.000
+Abstract: While there is no doubt about the centrality of a central bank in any economic set up, its role and functions have undergone some changes over last few decades. With total control on the issuance and supply of money and flow of credit in any economy, a central bank can influence the macroeconomic va...
+
+Paper ID: 970
+Probability: 1.000
+Abstract: Rapid technological breakthroughs are driving a fundamental upheaval in the banking and finance sector. This study explores the effects of digital technology on the sector, looking at how organizations are changing to keep up with changing consumer demands and intense competition. This research exam...
+
+Paper ID: 1404
+Probability: 1.000
+Abstract: This article introduces the development background of robo-advisors under fintech, expounds the current legal regulatory dilemmas from the perspective of robo-advisors, financial market, investors, and regulatory requirements, and proposes the supervision suggestions for the development of robot con...
+
+Paper ID: 1503
+Probability: 1.000
+Abstract: It has become a global consensus that science and technology promotes financial innovation. The research introduces the four core technologies of &quot;ABCD&quot;, namely artificial intelligence, blockchain, cloud computing and big data. China's consumer finance market has broad prospects. The chang...
+
+Paper ID: 1553
+Probability: 1.000
+Abstract: Banking and Financial services landscape is characterized by a parallel growth of FinTech on the one hand and Iot, Big Data, block chain, Artificial Intelligence (AI) and Machine Learning on the other. While the first round of challenges involved adapting to phenomenal FinTech growth and strategizin...
+
+
+Topic 8
+--------------------------------------------------------------------------------
+
+Paper ID: 30
+Probability: 1.000
+Abstract: The energy transition-revolution paradigm is coming with a new vision of interaction models to smartly manage the energy and data exchanged between all participants in the whole power system with solid regard to sustainability, resilience, cybersecurity, and privacy. Added to the switching from foss...
+
+Paper ID: 60
+Probability: 1.000
+Abstract: As the basis for the static security of the power grid, power load forecasting directly affects the safety of grid operation, the rationality of grid planning, and the economy of supply–demand balance. However, various factors lead to drastic changes in short-term power consumption, making the data ...
+
+Paper ID: 602
+Probability: 1.000
+Abstract: Green development is the internal requirement for achieving carbon peak and carbon neutrality, implementing the new development concept, building a Dual circulation, and promoting high-quality development. It is an important path to respond to the major strategic decisions made by the Central Commit...
+
+Paper ID: 657
+Probability: 1.000
+Abstract: Under the Energy Efficiency Directive (2012/27/EU) energy companies have to achieve yearly energy savings up to 1.5% of annual sales to final consumers. Although buildings’ occupants and energy end-users seem to be gaining greater awareness of the value and need for sustainable energy practices, the...
+
+Paper ID: 720
+Probability: 1.000
+Abstract: This paper proposes a method for mining behavioral characteristics of power users based on multidimensional user profiles and big data, aiming to deeply explore the behavioral characteristics of power users through the construction of multidimensional user profiles and big data analysis techniques. ...
+
+
+Topic 9
+--------------------------------------------------------------------------------
+
+Paper ID: 3
+Probability: 1.000
+Abstract: In the last decade, the number of vehicles worldwide has increased every year, and this growth is projected to continue unabated. Thus, the congestions, incidents, and environmental pollution which are caused by the increasing number of road vehicles and traffics have resulted in hundreds of million...
+
+Paper ID: 78
+Probability: 1.000
+Abstract: The big data of Internet of Vehicles contributes to the development of intelligent transportation. Privacy protection in vehicular ad hoc networks (VANETs) is the core factor to improve user and vehicle participation. This article proposes a novel blockchain-based dynamic extensible privacy protecti...
+
+Paper ID: 121
+Probability: 1.000
+Abstract: As social networks are integrated into the Vehicular Ad Hoc Networks (VANETs), the emerging Vehicular Social Networks (VSNs) have gained massive interests. However, the security and privacy of data generated by various applications in VSNs is a great challenge, which blocks the further development o...
+
+Paper ID: 171
+Probability: 1.000
+Abstract: Blockchain serves as a trust layer for data exchange in Vehicular Ad-hoc Networks (VANETs) due to its immutability and transparency. However, it can also be abused to spread false and inaccurate information. Additionally, the explosive growth of data in VANETs and the limited storage capacity of edg...
+
+Paper ID: 239
+Probability: 1.000
+Abstract: Vehicular communication systems (VCS) are likely to play an increasingly important role in future smart city design, for example by improving road safety and traffic efficiency. However, there are underpinning security and privacy challenges, which may also result in under-utilization of vehicular d...
+
+
+Topic 10
+--------------------------------------------------------------------------------
+
+Paper ID: 274
+Probability: 1.000
+Abstract: The booming applications of bitcoin Blockchain technologies made investors concerned about the return and risk of financial products. So, the return rate of bitcoin must be foreseen in prior. This research article devises an effective return rate prediction technique for Blockchain financial product...
+
+Paper ID: 1033
+Probability: 1.000
+Abstract: Heterogeneity among nodes is very common in blockchain networks. Most of the existing methods ignore the positive impact of heterogeneous information. However, this paper argues that heterogeneous information plays a key role in capturing complex interaction patterns between different account types ...
+
+Paper ID: 1199
+Probability: 1.000
+Abstract: To solve the problem of fraud detection in financial transaction data, this paper proposes an innovative detection scheme that integrates machine learning and big data analysis technology. We combine the subtleties of time series analysis with the power of modern data analysis to design a model that...
+
+Paper ID: 1230
+Probability: 1.000
+Abstract: The advent of cryptocurrencies, notably Bitcoin, has reshaped finance, introducing decentralized digital assets beyond traditional banking. As the crypto market matures, accurate price prediction becomes vital for investors. In order to develop a robust crypto price prediction model, this project us...
+
+Paper ID: 1378
+Probability: 1.000
+Abstract: Blockchain systems and cryptocurrencies have exploded in popularity over the past decade, and with this growing user base, the number of cryptocurrency scams has also surged. Given the graphical structure of blockchain networks and the abundance of data generated on these networks, we use graph mini...
+
+
+Topic 11
+--------------------------------------------------------------------------------
+
+Paper ID: 40
+Probability: 1.000
+Abstract: Test-to-code traceability links (TCTLs) establish links between test artifacts and code artifacts. These links enable developers and testers to quickly identify the specific pieces of code tested by particular test cases, thus facilitating more efficient debugging, regression testing, and maintenanc...
+
+Paper ID: 248
+Probability: 1.000
+Abstract: A vulnerability or error in a smart contract will lead to serious consequences including loss of assets and leakage of user privacy. Established smart contract vulnerability detection tools define vulnerabilities through symbolic execution, fuzz testing, and other methods requiring extremely special...
+
+Paper ID: 275
+Probability: 1.000
+Abstract: Ongoing smart contract attack events have seriously impeded the practical application of blockchain. Although lots of researches have been conducted, they mostly focus on off-chain vulnerability detection. However, smart contracts cannot be modified once they have been deployed on-chain, thus existi...
+
+Paper ID: 725
+Probability: 1.000
+Abstract: Blockchain-based distributed ledgers are widely adopted due to their decentralized, tamper-resistant, and trustworthy characteristics. Smart contracts, defined digitally, automatically execute contract terms and are typically composed of specific programs. These contracts manage transactions through...
+
+Paper ID: 1460
+Probability: 1.000
+Abstract: Smart contracts have brought new developments to Blockchain technology, quickly finding widespread application in finance, law, and business sectors upon their emergence. However, security vulnerabilities in smart contracts have limited their growth. The existing methods for detecting vulnerabilitie...
+
+
+Topic 12
+--------------------------------------------------------------------------------
+
+Paper ID: 36
+Probability: 1.000
+Abstract: Smart City has been an emerging research domain for Government, Businesses, and researchers in the last few years. The Indian government is also interested and investing lots of funds to develop smart cities. These cities are technology-based and require interdisciplinary research and development fo...
+
+Paper ID: 43
+Probability: 1.000
+Abstract: The concept of smart city evolved with the integration of information and communication technology (ICT) in various sub-systems and processes in urban environment. The development of the smart cities is the best possible solution to major urban issues. It contributes towards economic and social deve...
+
+Paper ID: 516
+Probability: 1.000
+Abstract: The idea of Smart Cities (SCs) was developed to digitize conventional urban living areas and redevelop using digital equipment to enhance lifestyle and resident security. Smart cities cover a wide range of applications such as smart government, smart energy, smart transportation, smart health, and s...
+
+Paper ID: 777
+Probability: 1.000
+Abstract: The new generation of information technology represented by artificial intelligence, block chain, cloud computing and big data is infiltrating various fields of smart supervision. In recent years, smart supervision based on a new generation of information technology has achieved results in the field...
+
+Paper ID: 1136
+Probability: 1.000
+Abstract: The dream of creating Smart Cities is associated with many desires, aspirations, technological limitations and concerns related to a safe and secure human life. This paper is an effort to assess the desired features in a smart city and explore the available solutions by means of upcoming technologie...
+
+
+Topic 13
+--------------------------------------------------------------------------------
+
+Paper ID: 6
+Probability: 1.000
+Abstract: Industrial Internet of Things (IIoTs) are the extensions of the Internet of Things (IoTs) and have paved the way towards the industry revolution 4.0. IIoT accelerates the industry automation of internal and external working process including transport, manufacturing, and marketing units with a numbe...
+
+Paper ID: 55
+Probability: 1.000
+Abstract: The application of Internet of Things (IoT) within industrial environments is fostering the adoption of the digital twin (DT) approach, applied at the edge of the network to handle heterogeneity stemming from siloed application management solutions and from protocols originated by different manufact...
+
+Paper ID: 112
+Probability: 1.000
+Abstract: The Internet of Things (IoT) is used in homes and hospitals and deployed outdoors to control and report environmental changes, prevent fires, and perform many more beneficial functions. However, all these benefits come at the tremendous risk of loss of privacy and security issues. To protect the IoT...
+
+Paper ID: 262
+Probability: 1.000
+Abstract: Internet of Things is emerging as an incredible future technology to improve the existing lifestyle from the research community, industry, and the public sector. The main intention of IoT is to create an efficient, interactive, and autonomous infrastructure for a safer and healthier world. Moreover,...
+
+Paper ID: 383
+Probability: 1.000
+Abstract: Significantly faster Wifi speeds, low latency, and extensive interior and outdoor coverage with Smart Cities are among anticipated benefits of 5G technology. With its smooth radio coverage and strong network backbone, it can replace current Wi-Fi and Bluetooth technologies. This development is espec...
+
+
