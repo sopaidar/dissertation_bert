@@ -1,0 +1,83 @@
+REPRESENTATIVE PAPERS PER TOPIC
+================================================================================
+
+
+Topic 0 - security, iot, city, smart city, development
+--------------------------------------------------------------------------------
+Total papers: 1556
+
+• The Application of Blockchain Technology in E-Government in China
+  Year: 2017
+  Confidence: 1.000
+  Abstract: The purpose of this article is to discuss the application of blockchain technology in e-government, particularly in the Chinese context. Chancheng Dis...
+
+• Research on Strong Supervision Algorithm Model Based on Blockchain in E-government
+  Year: 2020
+  Confidence: 1.000
+  Abstract: In recent years, the research and application of blockchain applied in e-government has been increasing. The characteristics of blockchain, such as no...
+
+• Feasibility Analysis of E-Government Application Based on Blockchain Technology
+  Year: 2022
+  Confidence: 1.000
+  Abstract: The application of blockchain technology is no longer limited to cryptocurrencies. The decentralization, non-tampering, asymmetric encryption, traceab...
+
+
+Topic 1 - healthcare, privacy, records, pandemic, security
+--------------------------------------------------------------------------------
+Total papers: 136
+
+• Health Record Management Using Blockchain Technology
+  Year: 2022
+  Confidence: 1.000
+  Abstract: The world is progressing, but it needs healthy people to succeed, and health records are a measure of human health across time. When health records ar...
+
+• Vaccination System using Blockchain Technology: A Prototype Development
+  Year: 2021
+  Confidence: 1.000
+  Abstract: Vaccination is foreseen to becoming a compulsory medical requirement enforced by the government to the citizen. It is as an effective way to control a...
+
+• Privacy-preserving COVID-19 contact tracing using blockchain
+  Year: 2021
+  Confidence: 1.000
+  Abstract: The outbreak of the COVID-19 virus has caused widespread panic and global initiatives are geared towards treatment and limiting its spread. With techn...
+
+
+Topic 2 - voting, electronic, voting systems, security, democratic
+--------------------------------------------------------------------------------
+Total papers: 58
+
+• Blockchain based E-Voting
+  Year: 2022
+  Confidence: 1.000
+  Abstract: In recent years, the use of the internet to vote has become popular and several governments in Europe and worldwide are intending to experiment with i...
+
+• A Novel P2P based System with Blockchain for Secured Voting Scheme
+  Year: 2019
+  Confidence: 1.000
+  Abstract: The revolution in the system of records has reached a great extent and paves a way for a powerful technology known as blockchain for storing data and ...
+
+• Online Voting System Based on IoT and Ethereum Blockchain
+  Year: 2021
+  Confidence: 1.000
+  Abstract: Voting process is a democratic practice that has been used over the years as a primary method used by people in democratic countries to express their ...
+
+
+Topic 3 - registration, property, records, real, transaction
+--------------------------------------------------------------------------------
+Total papers: 43
+
+• Land Registry Using a Distributed Ledger
+  Year: 2022
+  Confidence: 1.000
+  Abstract: Land registration is a system that provides landowners with land titles secured by the government. Zimbabwe has no electronic system for keeping land ...
+
+• BlockChain to Prevent Fraudulent Activities: Buying and Selling Property Using BlockChain
+  Year: 2020
+  Confidence: 1.000
+  Abstract: Blockchain can have umpteen number of uses, one of them being its use in Real Estate. Blockchain and Real Estate go hand in hand. The kind of security...
+
+• Blockchain enabled Digitization of Land Registration
+  Year: 2021
+  Confidence: 1.000
+  Abstract: In India, the Land Registry System is a very time-consuming procedure that requires many intermediaries, thus increasing the number of fraudulent case...
+

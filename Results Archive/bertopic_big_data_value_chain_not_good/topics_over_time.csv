@@ -1,0 +1,55 @@
+Topic,Words,Frequency,Timestamp,Name
+-1,"data, services, energy, their, power",7,2014.99,-1_data_digital_science_energy
+0,"failure, equipment, health, events, model",1,2014.99,0_prediction_degradation_rul_health
+1,"data, time, big, big data, processing",13,2014.99,1_data_big_big data_management
+2,"privacy, security, data, cloud, cloud computing",6,2014.99,2_data_privacy_security_data security
+3,"business, internet, iot, smart, traditional",5,2014.99,3_industry_manufacturing_chain_digital
+-1,"data, science, data science, process, information",8,2015.909,-1_data_digital_science_energy
+0,"failure, equipment, health, model, lifecycle data",1,2015.909,0_prediction_degradation_rul_health
+1,"data, big, big data, value, management",28,2015.909,1_data_big_big data_management
+2,"data, privacy, security, information, personal",8,2015.909,2_data_privacy_security_data security
+3,"industry, production, mass, 40, industry 40",15,2015.909,3_industry_manufacturing_chain_digital
+-1,"data, smart, science, systems, which",9,2016.818,-1_data_digital_science_energy
+1,"data, big, big data, management, data management",34,2016.818,1_data_big_big data_management
+2,"security, privacy, data, grid, mobile",4,2016.818,2_data_privacy_security_data security
+3,"industry, manufacturing, value, business, 40",11,2016.818,3_industry_manufacturing_chain_digital
+-1,"data, big data, big, connected, their",7,2017.727,-1_data_digital_science_energy
+0,"health, system, prediction, data mining, data",3,2017.727,0_prediction_degradation_rul_health
+1,"data, big, big data, management, data management",30,2017.727,1_data_big_big data_management
+2,"data, privacy, security, information, protection",7,2017.727,2_data_privacy_security_data security
+3,"industry, 40, industry 40, manufacturing, business",16,2017.727,3_industry_manufacturing_chain_digital
+-1,"data, science, data science, pipeline, systems",11,2018.636,-1_data_digital_science_energy
+0,"model, degradation, bearings, systems, health",2,2018.636,0_prediction_degradation_rul_health
+1,"data, big, big data, management, analytics",37,2018.636,1_data_big_big data_management
+2,"privacy, data, security, sensitive, personal",13,2018.636,2_data_privacy_security_data security
+3,"industry, business, digital, manufacturing, industrial",14,2018.636,3_industry_manufacturing_chain_digital
+-1,"data, energy, blockchain, applications, big data",20,2019.545,-1_data_digital_science_energy
+0,"health, prediction, data, network, neural network",3,2019.545,0_prediction_degradation_rul_health
+1,"data, big, big data, quality, which",26,2019.545,1_data_big_big data_management
+2,"privacy, data, security, data security, risk",13,2019.545,2_data_privacy_security_data security
+3,"industry, chain, manufacturing, 40, business",13,2019.545,3_industry_manufacturing_chain_digital
+-1,"data, digital, science, data science, energy",31,2020.455,-1_data_digital_science_energy
+0,"prediction, bearing, rul, degradation, failure",6,2020.455,0_prediction_degradation_rul_health
+1,"data, big, big data, system, pipeline",32,2020.455,1_data_big_big data_management
+2,"privacy, data, security, health, personal",14,2020.455,2_data_privacy_security_data security
+3,"manufacturing, industry, chain, industrial, data",14,2020.455,3_industry_manufacturing_chain_digital
+-1,"data, system, ai, iot, process",21,2021.364,-1_data_digital_science_energy
+0,"prediction, degradation, health, features, fault",11,2021.364,0_prediction_degradation_rul_health
+1,"data, big, big data, management, processing",41,2021.364,1_data_big_big data_management
+2,"security, data, privacy, data security, protection",11,2021.364,2_data_privacy_security_data security
+3,"manufacturing, digital, industry, value, chain",27,2021.364,3_industry_manufacturing_chain_digital
+-1,"data, pipeline, technology, digital, twin",29,2022.273,-1_data_digital_science_energy
+0,"prediction, rul prediction, rul, rolling, bearing",1,2022.273,0_prediction_degradation_rul_health
+1,"data, big, big data, quality, management",39,2022.273,1_data_big_big data_management
+2,"security, data, privacy, data security, cloud",18,2022.273,2_data_privacy_security_data security
+3,"industry, manufacturing, chain, 40, digital",20,2022.273,3_industry_manufacturing_chain_digital
+-1,"data, energy, value, digital, energy big data",22,2023.182,-1_data_digital_science_energy
+0,"degradation, prediction, model, bearings, rolling",6,2023.182,0_prediction_degradation_rul_health
+1,"data, big, big data, management, processing",43,2023.182,1_data_big_big data_management
+2,"data, privacy, security, protection, framework",12,2023.182,2_data_privacy_security_data security
+3,"manufacturing, chain, industry, power, data",23,2023.182,3_industry_manufacturing_chain_digital
+-1,"data, digital, blockchain, technology, traceability",17,2024.091,-1_data_digital_science_energy
+0,"prediction, rul, rul prediction, equipment, degradation",7,2024.091,0_prediction_degradation_rul_health
+1,"data, processing, big, big data, systems",24,2024.091,1_data_big_big data_management
+2,"security, data, privacy, protection, integrity",8,2024.091,2_data_privacy_security_data security
+3,"chain, technologies, industry, industrial, digital",14,2024.091,3_industry_manufacturing_chain_digital

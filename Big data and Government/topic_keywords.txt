@@ -1,0 +1,133 @@
+TOPIC MODELING RESULTS
+================================================================================
+
+Topic 0 (40 papers)
+--------------------------------------------------------------------------------
+  agriculture: 0.1160
+  agricultural: 0.1085
+  food: 0.0477
+  technologies: 0.0430
+  production: 0.0375
+  price: 0.0368
+  data: 0.0358
+  information: 0.0309
+  which: 0.0233
+  big: 0.0230
+
+Topic 1 (142 papers)
+--------------------------------------------------------------------------------
+  blockchain: 0.0707
+  security: 0.0704
+  data: 0.0655
+  privacy: 0.0421
+  smart: 0.0351
+  blockchain technology: 0.0302
+  technology: 0.0292
+  big: 0.0289
+  big data: 0.0288
+  cloud: 0.0231
+
+Topic 2 (38 papers)
+--------------------------------------------------------------------------------
+  protection: 0.0985
+  privacy: 0.0773
+  law: 0.0764
+  data: 0.0750
+  personal: 0.0737
+  data protection: 0.0647
+  eu: 0.0611
+  information: 0.0562
+  legal: 0.0426
+  right: 0.0373
+
+Topic 3 (47 papers)
+--------------------------------------------------------------------------------
+  social: 0.1165
+  media: 0.0872
+  social media: 0.0805
+  public: 0.0788
+  opinion: 0.0676
+  data: 0.0603
+  text: 0.0483
+  big: 0.0406
+  big data: 0.0384
+  network: 0.0344
+
+Topic 4 (50 papers)
+--------------------------------------------------------------------------------
+  healthcare: 0.0851
+  health: 0.0633
+  data: 0.0489
+  medical: 0.0472
+  covid19: 0.0362
+  big: 0.0353
+  disease: 0.0338
+  big data: 0.0336
+  pandemic: 0.0320
+  epidemic: 0.0270
+
+Topic 5 (82 papers)
+--------------------------------------------------------------------------------
+  ai: 0.1928
+  artificial: 0.0559
+  artificial intelligence: 0.0549
+  intelligence: 0.0535
+  intelligence ai: 0.0403
+  artificial intelligence ai: 0.0403
+  public: 0.0328
+  human: 0.0317
+  literature: 0.0298
+  ethical: 0.0298
+
+Topic 6 (408 papers)
+--------------------------------------------------------------------------------
+  smart: 0.0773
+  city: 0.0660
+  smart city: 0.0519
+  data: 0.0502
+  urban: 0.0477
+  cities: 0.0415
+  big: 0.0313
+  smart cities: 0.0304
+  big data: 0.0304
+  traffic: 0.0270
+
+Topic 7 (56 papers)
+--------------------------------------------------------------------------------
+  energy: 0.1321
+  power: 0.0855
+  data: 0.0645
+  grid: 0.0405
+  big: 0.0362
+  big data: 0.0357
+  system: 0.0330
+  consumption: 0.0290
+  smart: 0.0288
+  management: 0.0279
+
+Topic 8 (271 papers)
+--------------------------------------------------------------------------------
+  data: 0.0931
+  big: 0.0700
+  big data: 0.0687
+  government: 0.0443
+  information: 0.0276
+  public: 0.0266
+  analytics: 0.0244
+  open: 0.0240
+  which: 0.0198
+  data analytics: 0.0194
+
+Topic 9 (298 papers)
+--------------------------------------------------------------------------------
+  digital: 0.0460
+  innovation: 0.0356
+  literature: 0.0291
+  industry: 0.0269
+  review: 0.0252
+  technologies: 0.0230
+  transformation: 0.0224
+  sustainable: 0.0220
+  sustainability: 0.0218
+  supply: 0.0208
+

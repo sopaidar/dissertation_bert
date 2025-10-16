@@ -1,0 +1,29 @@
+BLOCKCHAIN & GOVERNMENT - SYSTEMATIC LITERATURE REVIEW STATISTICS
+================================================================================
+
+Total Papers Analyzed: 1800
+Topics Discovered: 4
+Outliers: 8 (0.4%)
+Average Papers per Topic: 450.0
+
+TEMPORAL DISTRIBUTION:
+--------------------------------------------------------------------------------
+2015: 1 papers (0.1%)
+2016: 2 papers (0.1%)
+2017: 15 papers (0.8%)
+2018: 82 papers (4.6%)
+2019: 144 papers (8.0%)
+2020: 200 papers (11.1%)
+2021: 258 papers (14.3%)
+2022: 278 papers (15.4%)
+2023: 294 papers (16.3%)
+2024: 308 papers (17.1%)
+2025: 214 papers (11.9%)
+2026: 4 papers (0.2%)
+
+TOPIC DISTRIBUTION:
+--------------------------------------------------------------------------------
+Topic 0: 1553 papers (86.3%) - security, iot, development
+Topic 1: 136 papers (7.6%) - healthcare, privacy, records
+Topic 2: 60 papers (3.3%) - voting, voting systems, electronic
+Topic 3: 43 papers (2.4%) - registration, property, records

@@ -1,0 +1,119 @@
+Topic,Words,Frequency,Timestamp,Name
+-1,"data, big data, big, computing, systems",33,2014.989,-1_data_big_big data_management
+1,"security, data, smart city, city, smart",3,2014.989,1_blockchain_security_data_privacy
+3,"opinion, text, public, data, algorithms",1,2014.989,3_social_media_social media_public
+4,"areas, health, especially, early, stages",1,2014.989,4_healthcare_health_data_medical
+6,"smart, city, smart city, data, traffic",19,2014.989,6_smart_city_smart city_data
+7,"energy, data, power, grid, platform",3,2014.989,7_energy_power_data_grid
+8,"data, big, big data, government, open",22,2014.989,8_data_big_big data_government
+9,"innovation, operational, literature, framework, business",6,2014.989,9_digital_innovation_literature_industry
+-1,"data, big, big data, information, management",39,2015.917,-1_data_big_big data_management
+0,"food, storage, delivery, chain, products",1,2015.917,0_agriculture_agricultural_food_technolo...
+1,"privacy, data, cloud, scheme, security",6,2015.917,1_blockchain_security_data_privacy
+2,"protection, data protection, regulation, data, consumer",3,2015.917,2_protection_privacy_law_data
+3,"social, real, data, media, big",3,2015.917,3_social_media_social media_public
+4,"health, india, medical, data, healthcare",4,2015.917,4_healthcare_health_data_medical
+6,"smart, city, data, smart city, urban",29,2015.917,6_smart_city_smart city_data
+7,"energy, system, cloud, data, government",1,2015.917,7_energy_power_data_grid
+8,"data, big, big data, government, analytics",19,2015.917,8_data_big_big data_government
+9,"innovation, digital, supply, chain, health",10,2015.917,9_digital_innovation_literature_industry
+-1,"data, big, computing, big data, management",38,2016.833,-1_data_big_big data_management
+0,"agriculture, information, storage, structure, agricultural",2,2016.833,0_agriculture_agricultural_food_technolo...
+1,"data, security, privacy, blockchain, big",13,2016.833,1_blockchain_security_data_privacy
+2,"protection, impact, data protection, personal, effects",1,2016.833,2_protection_privacy_law_data
+3,"social, media, social media, public, opinion",9,2016.833,3_social_media_social media_public
+4,"healthcare, data, analytics, predictive, model",3,2016.833,4_healthcare_health_data_medical
+5,"topic, articles, ai, intellectual, clusters",1,2016.833,5_ai_artificial_artificial intelligence_...
+6,"smart, city, data, smart city, urban",38,2016.833,6_smart_city_smart city_data
+7,"energy, smart, care, power, data",2,2016.833,7_energy_power_data_grid
+8,"data, big, big data, government, information",30,2016.833,8_data_big_big data_government
+9,"management, design, theory, purpose, health",8,2016.833,9_digital_innovation_literature_industry
+-1,"data, big, smart, big data, climate",33,2017.75,-1_data_big_big data_management
+0,"agriculture, agricultural, information, data, which",3,2017.75,0_agriculture_agricultural_food_technolo...
+1,"data, security, privacy, blockchain, big data",12,2017.75,1_blockchain_security_data_privacy
+2,"information, cloud, security, protection, data",3,2017.75,2_protection_privacy_law_data
+3,"social, media, social media, data, public",5,2017.75,3_social_media_social media_public
+4,"disease, data, healthcare, big, big data",2,2017.75,4_healthcare_health_data_medical
+5,"skills, technological, human, ai, professionals",1,2017.75,5_ai_artificial_artificial intelligence_...
+6,"smart, city, data, smart city, cities",48,2017.75,6_smart_city_smart city_data
+7,"energy, different, user, architecture, smart",2,2017.75,7_energy_power_data_grid
+8,"data, big data, big, government, public",20,2017.75,8_data_big_big data_government
+9,"digital, innovation, technologies, economy, industry",16,2017.75,9_digital_innovation_literature_industry
+-1,"data, big, big data, de, government",64,2018.667,-1_data_big_big data_management
+0,"agriculture, agricultural, data, marketing, technologies",4,2018.667,0_agriculture_agricultural_food_technolo...
+1,"data, security, blockchain, smart, big",16,2018.667,1_blockchain_security_data_privacy
+2,"eu, states, personal, data, protection",2,2018.667,2_protection_privacy_law_data
+3,"social, public, opinion, data, media",6,2018.667,3_social_media_social media_public
+4,"medical, healthcare, health, data, services",5,2018.667,4_healthcare_health_data_medical
+6,"smart, city, smart city, data, urban",38,2018.667,6_smart_city_smart city_data
+7,"energy, data, power, grid, system",7,2018.667,7_energy_power_data_grid
+8,"data, big, big data, government, open",23,2018.667,8_data_big_big data_government
+9,"industry, digital, innovation, supply, literature",20,2018.667,9_digital_innovation_literature_industry
+-1,"data, management, development, big, technology",71,2019.583,-1_data_big_big data_management
+0,"price, agricultural, forecasting, products, prediction",2,2019.583,0_agriculture_agricultural_food_technolo...
+1,"security, blockchain, data, smart, privacy",23,2019.583,1_blockchain_security_data_privacy
+2,"eu, law, protection, transfer, cloud",1,2019.583,2_protection_privacy_law_data
+3,"media, social, market, social media, opinion",5,2019.583,3_social_media_social media_public
+4,"healthcare, epidemic, data, spread, health",8,2019.583,4_healthcare_health_data_medical
+5,"ai, human, artificial, artificial intelligence, intelligence",3,2019.583,5_ai_artificial_artificial intelligence_...
+6,"smart, city, data, smart city, urban",51,2019.583,6_smart_city_smart city_data
+7,"energy, power, data, grid, big data",10,2019.583,7_energy_power_data_grid
+8,"data, big, big data, government, information",29,2019.583,8_data_big_big data_government
+9,"digital, innovation, transformation, literature, development",18,2019.583,9_digital_innovation_literature_industry
+-1,"data, management, big, big data, development",105,2020.5,-1_data_big_big data_management
+0,"agricultural, agriculture, 40, chinese, development",6,2020.5,0_agriculture_agricultural_food_technolo...
+1,"blockchain, security, data, privacy, blockchain technology",22,2020.5,1_blockchain_security_data_privacy
+2,"protection, data, data protection, eu, privacy",6,2020.5,2_protection_privacy_law_data
+3,"public, opinion, social, media, social media",5,2020.5,3_social_media_social media_public
+4,"covid19, healthcare, pandemic, data, disease",7,2020.5,4_healthcare_health_data_medical
+5,"ai, artificial intelligence, artificial, intelligence, intelligence ai",12,2020.5,5_ai_artificial_artificial intelligence_...
+6,"smart, city, smart city, urban, data",45,2020.5,6_smart_city_smart city_data
+7,"power, energy, data, application, grid",6,2020.5,7_energy_power_data_grid
+8,"data, big, big data, government, open",39,2020.5,8_data_big_big data_government
+9,"digital, innovation, literature, future, business",27,2020.5,9_digital_innovation_literature_industry
+-1,"data, big, big data, management, government",60,2021.417,-1_data_big_big data_management
+0,"agricultural, agriculture, food, production, chinese",6,2021.417,0_agriculture_agricultural_food_technolo...
+1,"blockchain, security, data, blockchain technology, smart",13,2021.417,1_blockchain_security_data_privacy
+2,"protection, personal, privacy, data, information",5,2021.417,2_protection_privacy_law_data
+3,"social, media, social media, text, data",6,2021.417,3_social_media_social media_public
+4,"health, healthcare, medical, data, epidemic",6,2021.417,4_healthcare_health_data_medical
+5,"ai, artificial, artificial intelligence, intelligence, public",12,2021.417,5_ai_artificial_artificial intelligence_...
+6,"smart, city, data, smart city, urban",38,2021.417,6_smart_city_smart city_data
+7,"energy, power, grid, data, system",8,2021.417,7_energy_power_data_grid
+8,"data, big, big data, government, analytics",28,2021.417,8_data_big_big data_government
+9,"digital, industry, innovation, literature, review",49,2021.417,9_digital_innovation_literature_industry
+-1,"data, big, big data, development, smart",69,2022.333,-1_data_big_big data_management
+0,"agriculture, agricultural, food, data, technologies",4,2022.333,0_agriculture_agricultural_food_technolo...
+1,"blockchain, security, data, technology, blockchain technology",17,2022.333,1_blockchain_security_data_privacy
+2,"law, eu, data, personal, right",3,2022.333,2_protection_privacy_law_data
+3,"opinion, text, social, public, media",4,2022.333,3_social_media_social media_public
+4,"healthcare, health, data, computing, covid19",8,2022.333,4_healthcare_health_data_medical
+5,"ai, artificial, intelligence, artificial intelligence, intelligence ai",19,2022.333,5_ai_artificial_artificial intelligence_...
+6,"urban, smart, city, data, smart city",36,2022.333,6_smart_city_smart city_data
+7,"power, energy, data, solution, big",7,2022.333,7_energy_power_data_grid
+8,"data, big, big data, government, public",26,2022.333,8_data_big_big data_government
+9,"digital, innovation, transformation, digital transformation, sustainable",43,2022.333,9_digital_innovation_literature_industry
+-1,"data, development, big, technology, big data",54,2023.25,-1_data_big_big data_management
+0,"agricultural, agriculture, technologies, water, sustainable",7,2023.25,0_agriculture_agricultural_food_technolo...
+1,"security, data, blockchain, privacy, smart",10,2023.25,1_blockchain_security_data_privacy
+2,"law, protection, privacy, personal, information",10,2023.25,2_protection_privacy_law_data
+3,"social, public, governance, network, practitioners",2,2023.25,3_social_media_social media_public
+4,"healthcare, health, early, models, data",4,2023.25,4_healthcare_health_data_medical
+5,"ai, artificial, artificial intelligence, intelligence, intelligence ai",18,2023.25,5_ai_artificial_artificial intelligence_...
+6,"smart, city, urban, cities, smart city",44,2023.25,6_smart_city_smart city_data
+7,"power, energy, data, credit, resilience",6,2023.25,7_energy_power_data_grid
+8,"data, big, big data, government, public",29,2023.25,8_data_big_big data_government
+9,"digital, 40, innovation, industry, literature",50,2023.25,9_digital_innovation_literature_industry
+-1,"data, accounting, digital, management, smart",43,2024.167,-1_data_big_big data_management
+0,"agriculture, agricultural, food, review, technologies",5,2024.167,0_agriculture_agricultural_food_technolo...
+1,"cybersecurity, security, blockchain, data, challenges",7,2024.167,1_blockchain_security_data_privacy
+2,"privacy, data, protection, empirical, data protection",4,2024.167,2_protection_privacy_law_data
+3,"text, extract, reports, online, social",1,2024.167,3_social_media_social media_public
+4,"tools, healthcare, health, disease, data",2,2024.167,4_healthcare_health_data_medical
+5,"ai, artificial, artificial intelligence, intelligence, intelligence ai",15,2024.167,5_ai_artificial_artificial intelligence_...
+6,"smart, urban, city, cities, data",22,2024.167,6_smart_city_smart city_data
+7,"energy, power, data, smart, grid",4,2024.167,7_energy_power_data_grid
+8,"data, government, big, big data, data governance",6,2024.167,8_data_big_big data_government
+9,"digital, innovation, literature, review, technologies",51,2024.167,9_digital_innovation_literature_industry
+-1,"digital technologies, digital, energy, machine, elements",2,2025.083,-1_data_big_big data_management
+5,"ai, tourism, how, help, ethical",1,2025.083,5_ai_artificial_artificial intelligence_...

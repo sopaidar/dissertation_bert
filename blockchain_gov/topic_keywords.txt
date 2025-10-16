@@ -1,0 +1,55 @@
+BLOCKCHAIN & GOVERNMENT - TOPIC MODELING RESULTS
+================================================================================
+
+Topic 0 (1556 papers, 86.4%)
+--------------------------------------------------------------------------------
+  security: 0.0416
+  iot: 0.0334
+  city: 0.0257
+  smart city: 0.0237
+  development: 0.0228
+  network: 0.0220
+  public: 0.0213
+  privacy: 0.0205
+  chain: 0.0197
+  internet: 0.0194
+
+Topic 1 (136 papers, 7.6%)
+--------------------------------------------------------------------------------
+  healthcare: 0.0939
+  privacy: 0.0403
+  records: 0.0397
+  pandemic: 0.0371
+  security: 0.0353
+  insurance: 0.0308
+  sharing: 0.0287
+  electronic: 0.0233
+  chain: 0.0209
+  supply: 0.0209
+
+Topic 2 (58 papers, 3.2%)
+--------------------------------------------------------------------------------
+  voting: 0.2584
+  electronic: 0.0561
+  voting systems: 0.0535
+  security: 0.0475
+  democratic: 0.0353
+  ballot: 0.0332
+  many: 0.0324
+  integrity: 0.0296
+  political: 0.0283
+  issues: 0.0267
+
+Topic 3 (43 papers, 2.4%)
+--------------------------------------------------------------------------------
+  registration: 0.1267
+  property: 0.0932
+  records: 0.0677
+  real: 0.0497
+  transaction: 0.0423
+  ownership: 0.0417
+  ledger: 0.0349
+  network: 0.0340
+  block: 0.0323
+  documents: 0.0314
+

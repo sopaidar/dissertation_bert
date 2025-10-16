@@ -1,0 +1,129 @@
+Topic,Words,Frequency,Timestamp,Name
+-1,"system, distribution, datasets, content, large",2,2014.99,-1_data_blockchain_technology_security
+-1,"credit, trusted, data, reduce, address",5,2015.909,-1_data_blockchain_technology_security
+0,"hash, verify, limitations, infrastructure, several",1,2015.909,0_data_blockchain_security_technology
+1,"medical, patients, providers, data, healthcare",1,2015.909,1_healthcare_medical_health_data
+-1,"data, blockchain, big, big data, information",26,2016.818,-1_data_blockchain_technology_security
+0,"blockchain, data, iot, storage, system",10,2016.818,0_data_blockchain_security_technology
+1,"medical, data, health, healthcare, sharing",3,2016.818,1_healthcare_medical_health_data
+2,"ecommerce, business, digital, technologies, developed",4,2016.818,2_industry_technologies_digital_supply
+6,"entities, bitcoin, according, dataset, four",1,2016.818,6_contracts_smart contracts_smart_detect...
+8,"consensus, attacks, protocol, problems, still",1,2016.818,8_consensus_nodes_blockchain_node
+9,"example, power, platform, energy, layer",1,2016.818,9_energy_power_grid_smart
+11,"iot, wireless, network, devices, networks",1,2016.818,11_iot_devices_internet_things
+-1,"data, blockchain, network, system, big",92,2017.727,-1_data_blockchain_technology_security
+0,"blockchain, data, technology, security, system",54,2017.727,0_data_blockchain_security_technology
+1,"medical, data, healthcare, health, patients",13,2017.727,1_healthcare_medical_health_data
+2,"digital, ecommerce, platform, innovative, processing",6,2017.727,2_industry_technologies_digital_supply
+3,"learning, machine, machine learning, data, model",10,2017.727,3_learning_federated_data_federated lear...
+4,"education, parallel, difficult, issues, blockchain",1,2017.727,4_education_metaverse_educational_system
+5,"find, production, data, often, global",1,2017.727,5_food_agriculture_agricultural_technolo...
+6,"ethereum, contracts, smart contracts, smart, contract",7,2017.727,6_contracts_smart contracts_smart_detect...
+7,"financial, fintech, banking, technologies, development",6,2017.727,7_financial_fintech_banking_finance
+8,"consensus, blockchain, protocol, nodes, block",5,2017.727,8_consensus_nodes_blockchain_node
+10,"vehicles, authentication, vehicle, security, privacy",2,2017.727,10_vehicles_vehicle_iov_scheme
+12,"smart, technologies, relevant, building, sector",2,2017.727,12_smart_city_cities_smart city
+-1,"data, blockchain, technology, system, which",108,2018.636,-1_data_blockchain_technology_security
+0,"blockchain, data, iot, technology, security",64,2018.636,0_data_blockchain_security_technology
+1,"healthcare, medical, health, data, records",25,2018.636,1_healthcare_medical_health_data
+2,"industry, technologies, supply, industry 40, 40",10,2018.636,2_industry_technologies_digital_supply
+3,"learning, machine learning, machine, detection, model",6,2018.636,3_learning_federated_data_federated lear...
+4,"education, world, educational, which, data",6,2018.636,4_education_metaverse_educational_system
+5,"agriculture, food, agricultural, farming, digital",3,2018.636,5_food_agriculture_agricultural_technolo...
+6,"contracts, smart contracts, smart, contract, smart contract",6,2018.636,6_contracts_smart contracts_smart_detect...
+7,"global, financial, finance, innovation, auditing",3,2018.636,7_financial_fintech_banking_finance
+8,"consensus, protocol, blockchain, performance, fault",7,2018.636,8_consensus_nodes_blockchain_node
+9,"power, grid, energy, smart, system",3,2018.636,9_energy_power_grid_smart
+10,"vehicle, iov, vehicles, scheme, security",8,2018.636,10_vehicles_vehicle_iov_scheme
+11,"iot, devices, internet, things, security",4,2018.636,11_iot_devices_internet_things
+13,"digital twins, twins, maintenance, predictive, digital",2,2018.636,13_digital twins_twins_digital_twin
+-1,"data, blockchain, technology, system, security",126,2019.545,-1_data_blockchain_technology_security
+0,"data, blockchain, security, computing, system",81,2019.545,0_data_blockchain_security_technology
+1,"medical, healthcare, health, data, care",24,2019.545,1_healthcare_medical_health_data
+2,"technologies, industry, digital, supply, logistics",22,2019.545,2_industry_technologies_digital_supply
+3,"learning, model, data, privacy, federated",11,2019.545,3_learning_federated_data_federated lear...
+4,"education, educational, development, data, technology",6,2019.545,4_education_metaverse_educational_system
+5,"agriculture, agricultural, food, technologies, farming",8,2019.545,5_food_agriculture_agricultural_technolo...
+6,"contracts, bitcoin, smart contracts, smart, contract",8,2019.545,6_contracts_smart contracts_smart_detect...
+7,"financial, fintech, banking, development, finance",10,2019.545,7_financial_fintech_banking_finance
+8,"consensus, nodes, node, blockchain, network",8,2019.545,8_consensus_nodes_blockchain_node
+9,"energy, power, grid, electricity, big",5,2019.545,9_energy_power_grid_smart
+10,"vehicles, nodes, security, vehicle, communication",5,2019.545,10_vehicles_vehicle_iov_scheme
+11,"iot, devices, internet, things, security",5,2019.545,11_iot_devices_internet_things
+12,"smart, urban, city, smart city, cities",5,2019.545,12_smart_city_cities_smart city
+13,"physical, digital twins, twins, digital, machine learning",1,2019.545,13_digital twins_twins_digital_twin
+-1,"data, blockchain, technology, security, information",182,2020.455,-1_data_blockchain_technology_security
+0,"data, blockchain, security, technology, system",88,2020.455,0_data_blockchain_security_technology
+1,"health, healthcare, medical, data, care",50,2020.455,1_healthcare_medical_health_data
+2,"industry, 40, technologies, industry 40, digital",39,2020.455,2_industry_technologies_digital_supply
+3,"learning, federated, federated learning, fl, model",24,2020.455,3_learning_federated_data_federated lear...
+4,"education, educational, metaverse, development, blockchain",20,2020.455,4_education_metaverse_educational_system
+5,"agricultural, agriculture, food, technologies, data",9,2020.455,5_food_agriculture_agricultural_technolo...
+6,"contracts, smart contracts, smart, features, contract",6,2020.455,6_contracts_smart contracts_smart_detect...
+7,"financial, fintech, banking, finance, banks",13,2020.455,7_financial_fintech_banking_finance
+8,"consensus, blockchain, nodes, protocol, mechanism",12,2020.455,8_consensus_nodes_blockchain_node
+9,"energy, power, grid, electricity, carbon",11,2020.455,9_energy_power_grid_smart
+10,"vehicles, vehicle, iov, scheme, authentication",12,2020.455,10_vehicles_vehicle_iov_scheme
+11,"iot, internet, things, internet things, devices",6,2020.455,11_iot_devices_internet_things
+12,"smart city, city, smart, cities, smart cities",8,2020.455,12_smart_city_cities_smart city
+13,"grid, digital twin, twin, power, digital",1,2020.455,13_digital twins_twins_digital_twin
+-1,"data, blockchain, technology, security, big",187,2021.364,-1_data_blockchain_technology_security
+0,"data, blockchain, security, technology, system",132,2021.364,0_data_blockchain_security_technology
+1,"medical, healthcare, health, data, care",58,2021.364,1_healthcare_medical_health_data
+2,"technologies, industry, 40, supply, industry 40",40,2021.364,2_industry_technologies_digital_supply
+3,"learning, model, federated, federated learning, data",38,2021.364,3_learning_federated_data_federated lear...
+4,"education, educational, metaverse, system, technology",26,2021.364,4_education_metaverse_educational_system
+5,"food, agriculture, agricultural, technologies, production",8,2021.364,5_food_agriculture_agricultural_technolo...
+6,"contracts, smart contracts, detection, smart, contract",14,2021.364,6_contracts_smart contracts_smart_detect...
+7,"financial, finance, banks, fintech, digital",8,2021.364,7_financial_fintech_banking_finance
+8,"consensus, nodes, algorithm, node, blockchain",12,2021.364,8_consensus_nodes_blockchain_node
+9,"energy, power, grid, smart, system",11,2021.364,9_energy_power_grid_smart
+10,"vehicles, vehicle, iov, security, scheme",6,2021.364,10_vehicles_vehicle_iov_scheme
+11,"iot, devices, security, internet, things",9,2021.364,11_iot_devices_internet_things
+12,"smart, city, cities, smart city, smart cities",6,2021.364,12_smart_city_cities_smart city
+13,"digital twin, twin, digital, transportation, digital twins",2,2021.364,13_digital twins_twins_digital_twin
+-1,"data, blockchain, technology, security, big",238,2022.273,-1_data_blockchain_technology_security
+0,"data, blockchain, security, technology, system",126,2022.273,0_data_blockchain_security_technology
+1,"healthcare, medical, health, data, patients",63,2022.273,1_healthcare_medical_health_data
+2,"digital, supply, industry, technologies, supply chain",46,2022.273,2_industry_technologies_digital_supply
+3,"learning, federated, federated learning, data, model",48,2022.273,3_learning_federated_data_federated lear...
+4,"education, metaverse, system, educational, technology",24,2022.273,4_education_metaverse_educational_system
+5,"food, agriculture, farming, agricultural, technologies",19,2022.273,5_food_agriculture_agricultural_technolo...
+6,"contracts, smart contracts, detection, smart, contract",22,2022.273,6_contracts_smart contracts_smart_detect...
+7,"financial, banking, fintech, audit, finance",19,2022.273,7_financial_fintech_banking_finance
+8,"consensus, algorithm, blockchain, node, nodes",14,2022.273,8_consensus_nodes_blockchain_node
+9,"power, energy, grid, system, development",12,2022.273,9_energy_power_grid_smart
+10,"vehicles, iov, vehicle, scheme, security",8,2022.273,10_vehicles_vehicle_iov_scheme
+11,"iot, internet, iiot, devices, things",12,2022.273,11_iot_devices_internet_things
+12,"smart, cities, urban, smart cities, city",7,2022.273,12_smart_city_cities_smart city
+13,"digital, digital twins, twins, twin, digital twin",10,2022.273,13_digital twins_twins_digital_twin
+-1,"data, blockchain, technology, security, big",243,2023.182,-1_data_blockchain_technology_security
+0,"data, blockchain, security, system, technology",95,2023.182,0_data_blockchain_security_technology
+1,"healthcare, medical, health, data, medical data",38,2023.182,1_healthcare_medical_health_data
+2,"supply, industry, digital, technologies, supply chain",76,2023.182,2_industry_technologies_digital_supply
+3,"learning, federated, federated learning, data, model",43,2023.182,3_learning_federated_data_federated lear...
+4,"education, metaverse, educational, learning, intelligence",14,2023.182,4_education_metaverse_educational_system
+5,"food, agriculture, technologies, agricultural, farming",26,2023.182,5_food_agriculture_agricultural_technolo...
+6,"contracts, smart contracts, detection, smart, methods",13,2023.182,6_contracts_smart contracts_smart_detect...
+7,"financial, fintech, banking, digital, technologies",16,2023.182,7_financial_fintech_banking_finance
+8,"consensus, nodes, blockchain, node, throughput",13,2023.182,8_consensus_nodes_blockchain_node
+9,"energy, power, grid, electricity, data",12,2023.182,9_energy_power_grid_smart
+10,"vehicles, authentication, vehicle, scheme, security",7,2023.182,10_vehicles_vehicle_iov_scheme
+11,"iot, devices, security, network, things",3,2023.182,11_iot_devices_internet_things
+12,"smart, urban, cities, city, smart city",7,2023.182,12_smart_city_cities_smart city
+13,"digital, digital twins, twins, twin, digital twin",11,2023.182,13_digital twins_twins_digital_twin
+-1,"data, blockchain, technology, security, system",113,2024.091,-1_data_blockchain_technology_security
+0,"data, blockchain, cloud, security, scheme",32,2024.091,0_data_blockchain_security_technology
+1,"healthcare, medical, health, data, care",36,2024.091,1_healthcare_medical_health_data
+2,"digital, supply, technologies, industry, supply chain",51,2024.091,2_industry_technologies_digital_supply
+3,"learning, fl, federated, data, privacy",40,2024.091,3_learning_federated_data_federated lear...
+4,"education, educational, learning, intelligence, artificial intelligence",7,2024.091,4_education_metaverse_educational_system
+5,"food, agriculture, agricultural, technologies, farming",23,2024.091,5_food_agriculture_agricultural_technolo...
+6,"detection, fraud, model, vulnerability, graph",10,2024.091,6_contracts_smart contracts_smart_detect...
+7,"fintech, financial, banking, technologies, digital",7,2024.091,7_financial_fintech_banking_finance
+8,"consensus, node, mechanism, nodes, algorithm",4,2024.091,8_consensus_nodes_blockchain_node
+9,"energy, power, load, grid, systems",4,2024.091,9_energy_power_grid_smart
+10,"authentication, vehicles, iov, group, scheme",3,2024.091,10_vehicles_vehicle_iov_scheme
+11,"wireless, industrial, iot, things, internet",2,2024.091,11_iot_devices_internet_things
+12,"urban, smart, cities, city, smart city",4,2024.091,12_smart_city_cities_smart city
+13,"digital twins, twins, digital, twin, digital twin",4,2024.091,13_digital twins_twins_digital_twin

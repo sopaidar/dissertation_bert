@@ -1,0 +1,27 @@
+STATISTICS FOR SYSTEMATIC LITERATURE REVIEW
+================================================================================
+
+Total Papers Analyzed: 856
+Topics Discovered: 4
+Outliers: 182 (21.3%)
+
+YEAR DISTRIBUTION:
+--------------------------------------------------------------------------------
+2015: 32 papers
+2016: 60 papers
+2017: 58 papers
+2018: 63 papers
+2019: 77 papers
+2020: 75 papers
+2021: 97 papers
+2022: 111 papers
+2023: 107 papers
+2024: 106 papers
+2025: 70 papers
+
+TOPIC DISTRIBUTION:
+--------------------------------------------------------------------------------
+Topic 0: 41 papers (4.8%)
+Topic 1: 347 papers (40.5%)
+Topic 2: 114 papers (13.3%)
+Topic 3: 172 papers (20.1%)

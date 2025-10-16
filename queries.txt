@@ -1,0 +1,22 @@
+1--- Big Data Value Chain
+IEEE:
+((("All Metadata":"big data value chain") OR ("All Metadata":"data value chain") OR ("All Metadata":"big data lifecycle") OR ("All Metadata":"data lifecycle") OR (("All Metadata":"big data") AND ("All Metadata":"value chain")) OR (("All Metadata":"big data") AND ("All Metadata":"data pipeline"))) AND (("Content Type":"Conferences") OR ("Content Type":"Journals")) AND (("Year":2015) OR ("Year":2016) OR ("Year":2017) OR ("Year":2018) OR ("Year":2019) OR ("Year":2020) OR ("Year":2021) OR ("Year":2022) OR ("Year":2023) OR ("Year":2024) OR ("Year":2025)))
+
+
+SC:
+("big data value chain") OR TITLE-ABSTR-KEY("data value chain") OR TITLE-ABSTR-KEY(("big data" AND "value chain")) OR TITLE-ABSTR-KEY(("big data" AND lifecycle)
+
+
+2---- Biga Data and Blockchain
+
+
+
+
+
+3---- Biga data and government
+((("All Metadata":"big data") AND (("All Metadata":government) OR ("All Metadata":"e-government") OR ("All Metadata":"public sector") OR ("All Metadata":"smart city") OR ("All Metadata":"smart cities"))) AND (("Content Type":"Conferences") OR ("Content Type":"Journals")) AND (("Year":2015) OR ("Year":2016) OR ("Year":2017) OR ("Year":2018) OR ("Year":2019) OR ("Year":2020) OR ("Year":2021) OR ("Year":2022) OR ("Year":2023) OR ("Year":2024) OR ("Year":2025)))
+https://ieeexplore.ieee.org/search/searchresult.jsp?action=search&matchBoolean=true&newsearch=true&queryText=(((%22All%20Metadata%22:%22big%20data%22)%20AND%20((%22All%20Metadata%22:government)%20OR%20(%22All%20Metadata%22:%22e-government%22)%20OR%20(%22All%20Metadata%22:%22public%20sector%22)%20OR%20(%22All%20Metadata%22:%22smart%20city%22)%20OR%20(%22All%20Metadata%22:%22smart%20cities%22)))%20AND%20((%22Content%20Type%22:%22Conferences%22)%20OR%20(%22Content%20Type%22:%22Journals%22))%20AND%20((%22Publication%20Year%22:2015)%20OR%20(%22Publication%20Year%22:2016)%20OR%20(%22Publication%20Year%22:2017)%20OR%20(%22Publication%20Year%22:2018)%20OR%20(%22Publication%20Year%22:2019)%20OR%20(%22Publication%20Year%22:2020)%20OR%20(%22Publication%20Year%22:2021)%20OR%20(%22Publication%20Year%22:2022)%20OR%20(%22Publication%20Year%22:2023)%20OR%20(%22Publication%20Year%22:2024)%20OR%20(%22Publication%20Year%22:2025)))&highlight=true&returnType=SEARCH&matchPubs=true&rowsPerPage=100&pageNumber=40&returnFacets=ALL
+
+(TITLE("big data") OR ABS("big data")) AND (TITLE(government) OR ABS(government) OR TITLE("e-government") OR ABS("e-government") OR TITLE("smart city") OR TITLE("public sector") OR ABS("public sector"))
+https://www.sciencedirect.com/search?date=2015-2026&qs=%28TITLE%28%22big+data%22%29+OR+ABS%28%22big+data%22%29%29+AND+%28TITLE%28government%29+OR+ABS%28government%29+OR+TITLE%28%22e-government%22%29+OR+ABS%28%22e-government%22%29+OR+TITLE%28%22smart+city%22%29+OR+TITLE%28%22public+sector%22%29+OR+ABS%28%22public+sector%22%29%29
+

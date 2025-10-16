@@ -1,0 +1,41 @@
+Topic,Words,Frequency,Timestamp,Name
+0,"bitcoin, mining, users, network, decentralized network",1,2014.989,0_security_iot_city_smart city
+0,"name, previous, ownership, certificate, authorities",2,2015.917,0_security_iot_city_smart city
+0,"security, iot, blockchains, public, development",15,2016.833,0_security_iot_city_smart city
+0,"iot, security, city, smart city, devices",71,2017.75,0_security_iot_city_smart city
+1,"sharing, records, healthcare, privacy, electronic",5,2017.75,1_healthcare_privacy_records_pandemic
+2,"voting, peer, one, ballot, many",4,2017.75,2_voting_electronic_voting systems_secur...
+3,"property, records, registration, corruption, india",2,2017.75,3_registration_property_records_real
+-1,"disaster, requests, anonymous, serious, valuable",1,2018.667,-1_disaster_aid_natural_recovery
+0,"iot, security, city, smart city, network",137,2018.667,0_security_iot_city_smart city
+1,"blockchainenabled, national, blockchainenabled framework, insurance, healthcare",3,2018.667,1_healthcare_privacy_records_pandemic
+2,"voting, security, electronic, make, ballot",3,2018.667,2_voting_electronic_voting systems_secur...
+-1,"disaster, recovery, aid, transparently, getting",2,2019.583,-1_disaster_aid_natural_recovery
+0,"security, iot, city, smart city, network",165,2019.583,0_security_iot_city_smart city
+1,"healthcare, records, outbreak, security, pandemic",13,2019.583,1_healthcare_privacy_records_pandemic
+2,"voting, voting systems, electronic, political, many",9,2019.583,2_voting_electronic_voting systems_secur...
+3,"registration, property, records, you, real",11,2019.583,3_registration_property_records_real
+0,"security, iot, city, development, smart city",205,2020.5,0_security_iot_city_smart city
+1,"healthcare, pandemic, privacy, security, records",39,2020.5,1_healthcare_privacy_records_pandemic
+2,"voting, ballot, voting systems, electronic, democratic",8,2020.5,2_voting_electronic_voting systems_secur...
+3,"registration, property, records, block, documents",6,2020.5,3_registration_property_records_real
+0,"security, iot, city, smart city, development",232,2021.417,0_security_iot_city_smart city
+1,"healthcare, insurance, privacy, security, records",28,2021.417,1_healthcare_privacy_records_pandemic
+2,"voting, electronic, voting systems, many, security",10,2021.417,2_voting_electronic_voting systems_secur...
+3,"registration, real, property, records, system model",8,2021.417,3_registration_property_records_real
+-1,"aid, disaster, coordination, natural, react",1,2022.333,-1_disaster_aid_natural_recovery
+0,"security, iot, development, public, city",252,2022.333,0_security_iot_city_smart city
+1,"healthcare, records, electronic, security, privacy",19,2022.333,1_healthcare_privacy_records_pandemic
+2,"voting, electronic, security, democratic, voting systems",13,2022.333,2_voting_electronic_voting systems_secur...
+3,"registration, property, records, real, ownership",9,2022.333,3_registration_property_records_real
+-1,"disaster, organizations, action, united, nations",1,2023.25,-1_disaster_aid_natural_recovery
+0,"security, iot, city, development, smart city",277,2023.25,0_security_iot_city_smart city
+1,"healthcare, privacy, records, security, pandemic",19,2023.25,1_healthcare_privacy_records_pandemic
+2,"voting, voting systems, integrity, electronic, security",7,2023.25,2_voting_electronic_voting systems_secur...
+3,"registration, property, transaction, ownership, intermediaries",4,2023.25,3_registration_property_records_real
+-1,"aid, disaster, natural, coordination, resource",2,2024.167,-1_disaster_aid_natural_recovery
+0,"security, iot, adoption, public, city",195,2024.167,0_security_iot_city_smart city
+1,"healthcare, supply, records, chain, security",10,2024.167,1_healthcare_privacy_records_pandemic
+2,"voting, servers, voting systems, political, security",4,2024.167,2_voting_electronic_voting systems_secur...
+3,"registration, property, records, traditional, network",3,2024.167,3_registration_property_records_real
+0,"adoption, iot, security, blockchain adoption, scalability",4,2025.083,0_security_iot_city_smart city

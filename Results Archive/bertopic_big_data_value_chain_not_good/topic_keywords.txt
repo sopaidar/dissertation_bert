@@ -1,0 +1,55 @@
+TOPIC MODELING RESULTS
+================================================================================
+
+Topic 0 (41 papers)
+--------------------------------------------------------------------------------
+  prediction: 0.1189
+  degradation: 0.0962
+  rul: 0.0818
+  health: 0.0765
+  model: 0.0716
+  bearings: 0.0612
+  data: 0.0608
+  equipment: 0.0593
+  rul prediction: 0.0562
+  failure: 0.0542
+
+Topic 1 (347 papers)
+--------------------------------------------------------------------------------
+  data: 0.1200
+  big: 0.0484
+  big data: 0.0464
+  management: 0.0327
+  processing: 0.0271
+  quality: 0.0235
+  which: 0.0228
+  system: 0.0226
+  analytics: 0.0219
+  data management: 0.0213
+
+Topic 2 (114 papers)
+--------------------------------------------------------------------------------
+  data: 0.1117
+  privacy: 0.1082
+  security: 0.1028
+  data security: 0.0453
+  protection: 0.0446
+  personal: 0.0381
+  cloud: 0.0358
+  information: 0.0356
+  sensitive: 0.0312
+  system: 0.0298
+
+Topic 3 (172 papers)
+--------------------------------------------------------------------------------
+  industry: 0.0606
+  manufacturing: 0.0572
+  chain: 0.0461
+  digital: 0.0436
+  40: 0.0393
+  value: 0.0391
+  industrial: 0.0387
+  data: 0.0380
+  business: 0.0377
+  industry 40: 0.0352
+

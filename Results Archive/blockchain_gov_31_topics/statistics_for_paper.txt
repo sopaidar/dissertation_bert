@@ -1,0 +1,56 @@
+BLOCKCHAIN & GOVERNMENT - SYSTEMATIC LITERATURE REVIEW STATISTICS
+================================================================================
+
+Total Papers Analyzed: 1800
+Topics Discovered: 31
+Outliers: 503 (27.9%)
+Average Papers per Topic: 58.1
+
+TEMPORAL DISTRIBUTION:
+--------------------------------------------------------------------------------
+2015: 1 papers (0.1%)
+2016: 2 papers (0.1%)
+2017: 15 papers (0.8%)
+2018: 82 papers (4.6%)
+2019: 144 papers (8.0%)
+2020: 200 papers (11.1%)
+2021: 258 papers (14.3%)
+2022: 278 papers (15.4%)
+2023: 294 papers (16.3%)
+2024: 308 papers (17.1%)
+2025: 214 papers (11.9%)
+2026: 4 papers (0.2%)
+
+TOPIC DISTRIBUTION:
+--------------------------------------------------------------------------------
+Topic 0: 140 papers (7.8%) - iot, devices, things
+Topic 1: 96 papers (5.3%) - bitcoin, cryptocurrency, cryptocurrencies
+Topic 2: 85 papers (4.7%) - health, healthcare, medical
+Topic 3: 79 papers (4.4%) - waste, recycling, waste management
+Topic 4: 78 papers (4.3%) - food, supply, supply chain
+Topic 5: 75 papers (4.2%) - adoption, blockchain adoption, factors
+Topic 6: 59 papers (3.3%) - voting, evoting, election
+Topic 7: 55 papers (3.1%) - energy, trading, power
+Topic 8: 50 papers (2.8%) - covid19, pandemic, health
+Topic 9: 49 papers (2.7%) - cities, city, smart city
+Topic 10: 47 papers (2.6%) - vehicles, parking, traffic
+Topic 11: 44 papers (2.4%) - egovernment, open, citizens
+Topic 12: 43 papers (2.4%) - land, registration, property
+Topic 13: 42 papers (2.3%) - cities, urban, smart cities
+Topic 14: 35 papers (1.9%) - cybersecurity, cyber, threats
+Topic 15: 34 papers (1.9%) - identity, identity management, digital identity
+Topic 16: 31 papers (1.7%) - big, big data, trading
+Topic 17: 25 papers (1.4%) - federated, federated learning, learning
+Topic 18: 23 papers (1.3%) - 4ir, industry, africa
+Topic 19: 21 papers (1.2%) - education, students, higher
+Topic 20: 21 papers (1.2%) - construction, industry, 40
+Topic 21: 20 papers (1.1%) - deep, learning, deep learning
+Topic 22: 19 papers (1.1%) - funds, corruption, tax
+Topic 23: 19 papers (1.1%) - consensus, algorithms, consensus algorithms
+Topic 24: 18 papers (1.0%) - document, documents, document verification
+Topic 25: 18 papers (1.0%) - tender, tendering, procurement
+Topic 26: 16 papers (0.9%) - energy, renewable, renewable energy
+Topic 27: 15 papers (0.8%) - encryption, attribute, access
+Topic 28: 14 papers (0.8%) - public value, egovernment, digital government
+Topic 29: 14 papers (0.8%) - carbon, emission, trading
+Topic 30: 12 papers (0.7%) - drones, uavs, uav

@@ -1,0 +1,623 @@
+REPRESENTATIVE PAPERS PER TOPIC
+================================================================================
+
+
+Topic 0 - iot, devices, things, iot devices, city
+--------------------------------------------------------------------------------
+Total papers: 140
+
+• Blockchain and its Integration with IoT Security
+  Year: 2024
+  Confidence: 1.000
+  Abstract: This paper investigates the integration of blockchain with Internet of Things (IoT) security by identifying blockchain technology, IoT. The rapid adva...
+
+• A Novel Approach for Fast and Secure Data Transmission using Blockchain and IoT
+  Year: 2024
+  Confidence: 1.000
+  Abstract: The increase of Internet of Things devices has created new opportunities for collecting and processing data, but it also poses significant challenges ...
+
+• Blockchain and Smart Contract for IoT
+  Year: 2020
+  Confidence: 1.000
+  Abstract: Integrating IoT with blockchains and Smart Contracts could be a solution of many problems in terms of security and scalability. A lot of applications ...
+
+
+Topic 1 - bitcoin, cryptocurrency, cryptocurrencies, money, financial
+--------------------------------------------------------------------------------
+Total papers: 96
+
+• Blockchain Based Cryptocurrency for IOT
+  Year: 2019
+  Confidence: 1.000
+  Abstract: Prior to blockchain technology coming into much usage, the earlier cryptographic digital cash schemes relied merely on trusted authorities. Bitcoin re...
+
+• The Empirical study and analysis of the Blockchain Technology
+  Year: 2021
+  Confidence: 1.000
+  Abstract: Blockchain is the emerging technological field for the current era due to its advantages such as distributed computing, transparency, cryptography ena...
+
+• Exploring Security Threats on Blockchain Technology along with possible Remedies
+  Year: 2022
+  Confidence: 1.000
+  Abstract: Being the center of commotion in recent times, Blockchain Technology is on its way to bloom in the technological world. With countless applications, e...
+
+
+Topic 2 - health, healthcare, medical, patients, patient
+--------------------------------------------------------------------------------
+Total papers: 85
+
+• Health Record Management Using Blockchain Technology
+  Year: 2022
+  Confidence: 1.000
+  Abstract: The world is progressing, but it needs healthy people to succeed, and health records are a measure of human health across time. When health records ar...
+
+• Decentralized Medical Healthcare Record Management System Using Blockchain
+  Year: 2023
+  Confidence: 1.000
+  Abstract: The possibilities and benefit of using distributed ledger technology for storing and protecting patient medical information is greatest in the health ...
+
+• Design Of Medi-Chain: A Blockchain and Cloud Based Health Record System
+  Year: 2021
+  Confidence: 1.000
+  Abstract: Today to give better health facilities, governments require input data to analyze the needs and requirements of their citizens and how they can be ben...
+
+
+Topic 3 - waste, recycling, waste management, green, supply
+--------------------------------------------------------------------------------
+Total papers: 79
+
+• Risk-Averse Ride-Hailing Platform Operations With Safety Risk-Averse Consumers Under Pandemics: Roles of Blockchain Technology and Government Sponsors
+  Year: 2024
+  Confidence: 1.000
+  Abstract: Today, ride-hailing platform operations are popular. Facing pandemics (e.g., COVID-19) some customers feel unsafe for the ride-hailing service and pos...
+
+• Design and Game Research on the Closed - loop Supply Chain Model for Power Battery Recycling Based on Blockchain
+  Year: 2025
+  Confidence: 1.000
+  Abstract: Based on the average lifespan of power batteries, it is projected that the volume of power battery recycling in China will, exceed 70,000 tons by 2030...
+
+• Online operations in a multichannel supply chain under service cost difference: The adoption of blockchain technology
+  Year: 2025
+  Confidence: 1.000
+  Abstract: E-commerce has been growing at an unprecedented rate over the last decade. Nowadays, products are sold either on online e-platforms or at traditional ...
+
+
+Topic 4 - food, supply, supply chain, traceability, product
+--------------------------------------------------------------------------------
+Total papers: 78
+
+• Impact of Blockchain Technology on E-Commerce
+  Year: 2023
+  Confidence: 1.000
+  Abstract: Blockchain-based technology is expected to cause significant disruption to many business applications and processes that are part of e-commerce. Given...
+
+• Design a Tracing System for a Seed Supply Chain Based on Blockchain
+  Year: 2020
+  Confidence: 1.000
+  Abstract: Blockchain technology performs a process of storing inside a record, and this ledger is raised on a large number of parties (computers, servers). Reco...
+
+• ProductChain: Scalable Blockchain Framework to Support Provenance in Supply Chains
+  Year: 2018
+  Confidence: 1.000
+  Abstract: An increased incidence of food mislabeling and handling in recent years has led to consumers demanding transparency in how food items are produced and...
+
+
+Topic 5 - adoption, blockchain adoption, factors, barriers, findings
+--------------------------------------------------------------------------------
+Total papers: 75
+
+• Factors Influencing Blockchain Adoption in Government Organization : A Proposed Framework
+  Year: 2021
+  Confidence: 1.000
+  Abstract: With the rapid digitalisation of the economy nowadays, it is becoming increasingly important for organisations to embrace digital innovation. The emer...
+
+• Determinant Factors Influencing the Adoption of Blockchain Across SMEs in South Africa
+  Year: 2021
+  Confidence: 1.000
+  Abstract: The adoption of blockchain necessitates the attention of a wide range of elements, much beyond the primarily technological focus of most present inves...
+
+• Drivers and Impediments: Experts Opinions on Blockchain Adoption in the Netherlands
+  Year: 2020
+  Confidence: 1.000
+  Abstract: There is an ongoing interest in blockchain by organisations and governments in the Netherlands. In this research we aim to determine what positive and...
+
+
+Topic 6 - voting, evoting, election, voter, voting systems
+--------------------------------------------------------------------------------
+Total papers: 59
+
+• A Novel P2P based System with Blockchain for Secured Voting Scheme
+  Year: 2019
+  Confidence: 1.000
+  Abstract: The revolution in the system of records has reached a great extent and paves a way for a powerful technology known as blockchain for storing data and ...
+
+• A Novel Approach for e-Voting System Using Blockchain
+  Year: 2022
+  Confidence: 1.000
+  Abstract: With the inventions of new systems such as blockchain, the technological world gets new opportunities to develop new projects. The topic is relatively...
+
+• Blockchain-Enabled E-Voting: A Path To Secure And Transparent Elections
+  Year: 2024
+  Confidence: 1.000
+  Abstract: Elections are the cornerstone of democracy, enabling citizens to express their opinions and shape governance. However, traditional voting systems are ...
+
+
+Topic 7 - energy, trading, power, energy trading, electricity
+--------------------------------------------------------------------------------
+Total papers: 55
+
+• Ethereum Blockchain-Based Peer-To-Peer Energy Trading Platform
+  Year: 2020
+  Confidence: 1.000
+  Abstract: Blockchain is one of the emerging security technologies that have enormous potential in diverse sectors such as financial organization, academic insti...
+
+• Blockchain-Based Peer-to-Peer Sustainable Energy Trading in Microgrid using Smart Contracts
+  Year: 2021
+  Confidence: 1.000
+  Abstract: The adaptation of renewable energy and forsaking the conventional fuels for energy generation would not be feasible solely by the government body; thu...
+
+• A Blockchain-based Approach for Optimal Energy Dispatch and Fault Reporting in P2P Microgrid
+  Year: 2021
+  Confidence: 1.000
+  Abstract: Proper utilization of Distributed Energy Resources (DERs) in a microgrid can make a smart city locality self-sufficient in power generation and consum...
+
+
+Topic 8 - covid19, pandemic, health, spread, healthcare
+--------------------------------------------------------------------------------
+Total papers: 50
+
+• Vaccination System using Blockchain Technology: A Prototype Development
+  Year: 2021
+  Confidence: 1.000
+  Abstract: Vaccination is foreseen to becoming a compulsory medical requirement enforced by the government to the citizen. It is as an effective way to control a...
+
+• Managing COVID-19 Test Certificates Using Blockchain Platform
+  Year: 2021
+  Confidence: 1.000
+  Abstract: In early 2020, World Health Organization (WHO) declared that the world is facing the COVID-19 pandemic. This pandemic is caused by the emergence of a ...
+
+• Covid-19 Vaccine Management System based on Blockchain: A Survey
+  Year: 2022
+  Confidence: 1.000
+  Abstract: Early in 2020, the coronavirus Covid-19, which is produced by the SARS-CoV -2 strain, first gained international attention as a severe health threat. ...
+
+
+Topic 9 - cities, city, smart city, smart cities, urban
+--------------------------------------------------------------------------------
+Total papers: 49
+
+• Enhancing transparency and security in smart city infrastructure management with blockchain technology
+  Year: 2024
+  Confidence: 1.000
+  Abstract: Smart cities spearhead smart city development uniting advanced technology to manage assets skilfully and enhance every citizen’s life in the society. ...
+
+• Analysis Applicable Blockchain Technology Smart Education Services for Smart City in Indonesia
+  Year: 2023
+  Confidence: 1.000
+  Abstract: The implementation of Smart Cities in Indonesia began in 2016 by the government. However, up to the present time, the success of Smart City implementa...
+
+• Ecosystem Implementations in Smart City through Blockchain Technology
+  Year: 2023
+  Confidence: 1.000
+  Abstract: Smart cities are structured on smart devices to govern urban management. It encapsulates smart governance, smart mobility, smart infrastructure, smart...
+
+
+Topic 10 - vehicles, parking, traffic, vehicle, vehicular
+--------------------------------------------------------------------------------
+Total papers: 47
+
+• An Intelligent Vehicle Data Security System based on Blockchain for Smart City
+  Year: 2022
+  Confidence: 1.000
+  Abstract: With the development of urbanization, the number of vehicles is gradually increasing, and vehicles are gradually developing in the direction of intell...
+
+• DistB-VNET: Distributed Cluster-based Blockchain Vehicular Ad-Hoc Networks through SDN-NFV for Smart City
+  Year: 2024
+  Confidence: 1.000
+  Abstract: In the developing topic of smart cities, Vehicular Ad-Hoc Networks (VANETs) are crucial for providing successful interaction between vehicles and infr...
+
+• VehicleChain: Blockchain-based Vehicular Data Transmission Scheme for Smart City
+  Year: 2019
+  Confidence: 1.000
+  Abstract: In the fast-growing world, a significant increase in the number of vehicles has opened an opportunity to transform vehicles from a mechanical device t...
+
+
+Topic 11 - egovernment, open, citizens, governance, citizen
+--------------------------------------------------------------------------------
+Total papers: 44
+
+• The Application of Blockchain Technology in E-Government in China
+  Year: 2017
+  Confidence: 1.000
+  Abstract: The purpose of this article is to discuss the application of blockchain technology in e-government, particularly in the Chinese context. Chancheng Dis...
+
+• Research on Strong Supervision Algorithm Model Based on Blockchain in E-government
+  Year: 2020
+  Confidence: 1.000
+  Abstract: In recent years, the research and application of blockchain applied in e-government has been increasing. The characteristics of blockchain, such as no...
+
+• Feasibility Analysis of E-Government Application Based on Blockchain Technology
+  Year: 2022
+  Confidence: 1.000
+  Abstract: The application of blockchain technology is no longer limited to cryptocurrencies. The decentralization, non-tampering, asymmetric encryption, traceab...
+
+
+Topic 12 - land, registration, property, land registration, registry
+--------------------------------------------------------------------------------
+Total papers: 43
+
+• A Transparent and Trusted Property Registration System on Permissioned Blockchain
+  Year: 2020
+  Confidence: 1.000
+  Abstract: Performing various transactions on real estate records in the government organization is a cumbersome task and has many pitfalls. There are a number o...
+
+• A Blockchain-Based Deed Registration System: A Case Study for Saudi Arabia
+  Year: 2024
+  Confidence: 1.000
+  Abstract: Commercial real estate constitutes a significant portion of world economic assets and transaction activity. In addition, no real estate transaction is...
+
+• LandChain: A Blockchain Based Secured Land Registration System
+  Year: 2021
+  Confidence: 1.000
+  Abstract: The Fourth Industrial Revolution will be solely driven by a set of cutting-edge technologies. Countries who are well prepared and trained to adopt the...
+
+
+Topic 13 - cities, urban, smart cities, city, smart city
+--------------------------------------------------------------------------------
+Total papers: 42
+
+• Systematic Review of Standardized Blockchain IoT AI for Smart City Air Quality Monitoring
+  Year: 2025
+  Confidence: 1.000
+  Abstract: Traditional air quality monitoring (AQM) systems in densely populated smart cities face significant challenges regarding data integrity, spatial cover...
+
+• Survey of the Role of IoT and AI in Smart City Infrastructure
+  Year: 2025
+  Confidence: 1.000
+  Abstract: The increasing urbanization demands a robust and essential smart city infrastructure. This survey paper investigates the integration of Internet of Th...
+
+• Sustainable Smart City to Society 5.0: State-of-the-Art and Research Challenges
+  Year: 2022
+  Confidence: 1.000
+  Abstract: With the growth of data traffic, demand of huge number of digital devices and their interconnection to establish a reliable communication, the interne...
+
+
+Topic 14 - cybersecurity, cyber, threats, threat, fraud
+--------------------------------------------------------------------------------
+Total papers: 35
+
+• Blockchain’s Future Role in Cybersecurity. Analysis of Defensive and Offensive Potential Leveraging Blockchain-Based Platforms
+  Year: 2019
+  Confidence: 1.000
+  Abstract: Blockchain and cybersecurity are two current themes in Information Technology that have evolved and gained tremendous attention over the past few year...
+
+• Security Issues and Solutions in Government to Citizens (G2C) Services – A Detailed Review
+  Year: 2024
+  Confidence: 1.000
+  Abstract: This research review explores the security challenges and solutions within Government-to-Citizen (G2C) digital interactions. It highlights the importa...
+
+• Securing Majority-Attack in Blockchain Using Machine Learning and Algorithmic Game Theory: A Proof of Work
+  Year: 2018
+  Confidence: 1.000
+  Abstract: Recently we could see several institutions coming together to create consortium based blockchain networks such as Hyperledger. Although for applicatio...
+
+
+Topic 15 - identity, identity management, digital identity, identity verification, verification
+--------------------------------------------------------------------------------
+Total papers: 34
+
+• Tutorial: Decentralized Digital Identity with Blockchain
+  Year: 2021
+  Confidence: 1.000
+  Abstract: In the digital world, identity data and records are scattered across each digital service‚Äôs database. Government entities, public and private compan...
+
+• Blockchain Based Digital Identity Management System for Smart City Services
+  Year: 2023
+  Confidence: 1.000
+  Abstract: Centralized systems that require third parties remain opaque and represent a single point of failure. Therefore, in accordance with the requirements o...
+
+• Blockchain Based Digital Identity Solution
+  Year: 2024
+  Confidence: 1.000
+  Abstract: Digital identity is crucial to the growth and profitability of the digital economy, as well as the growth and profitability of every organization and ...
+
+
+Topic 16 - big, big data, trading, data sharing, protection
+--------------------------------------------------------------------------------
+Total papers: 31
+
+• A blockchain framework for smart mobility
+  Year: 2018
+  Confidence: 1.000
+  Abstract: A blockchain framework is presented for addressing the privacy and security challenges associated with the Big Data in smart mobility. It is composed ...
+
+• Bootstrapping a Blockchain Based Ecosystem for Big Data Exchange
+  Year: 2017
+  Confidence: 1.000
+  Abstract: In recent years, data is becoming the most valuable asset. There are more and more data exchange markets on Internet. These markets help data owners p...
+
+• A Blockchain-Based Trading Platform for Big Data
+  Year: 2020
+  Confidence: 1.000
+  Abstract: Nowadays, data is an extremely important asset. Governments around the world encourage big data sharing and trading to flourish the big data economics...
+
+
+Topic 17 - federated, federated learning, learning, fl, training
+--------------------------------------------------------------------------------
+Total papers: 25
+
+• Realizing Health 4.0 in Beyond 5G Networks
+  Year: 2022
+  Confidence: 1.000
+  Abstract: The advancements of Edge and Internet of Things (IoT) devices in terms of their processing, storage and communication capabilities, in addition to the...
+
+• Sustainable Spectrum Crowdsensing
+  Year: 2024
+  Confidence: 1.000
+  Abstract: Spectrum crowdsensing is a paradigm where participants upload their collected spectrum data to the cloud for extracting analytics. First movers like M...
+
+• HSADR: A New Highly Secure Aggregation and Dropout-Resilient Federated Learning Scheme for Radio Access Networks With Edge Computing Systems
+  Year: 2024
+  Confidence: 1.000
+  Abstract: Open radio access network (ORAN) plays a critical role in modern communication process. The structure that individual devices connect each other via O...
+
+
+Topic 18 - 4ir, industry, africa, transformation, sustainable
+--------------------------------------------------------------------------------
+Total papers: 23
+
+• Digital technologies for the Sustainable Development Goals
+  Year: 2025
+  Confidence: 1.000
+  Abstract: Digital technologies (DTs) play a crucial role in advancing the United Nations’ Sustainable Development Goals (SDGs). It provides innovative solutions...
+
+• Integrated usage of artificial intelligence, blockchain and the internet of things in logistics for decarbonization through paradox lens
+  Year: 2024
+  Confidence: 1.000
+  Abstract: The objective of this study was to identify, assess, and prioritize resolution strategies to address paradoxes associated with the integrated use of a...
+
+• Advancing food systems with industry 5.0: A systematic review of smart technologies, sustainability, and resource optimization
+  Year: 2025
+  Confidence: 1.000
+  Abstract: The advent of Industry 5.0 represents a transformative shift towards integrating advanced computational technologies—such as AI, IoT, robotics, and bi...
+
+
+Topic 19 - education, students, higher, academic, certificates
+--------------------------------------------------------------------------------
+Total papers: 21
+
+• Ontology of Education Using Blockchain: Time Based Protocol
+  Year: 2020
+  Confidence: 1.000
+  Abstract: Education is a business process that has been a pillar of government for centuries in building the nation. The method of organizing knowledge globally...
+
+• The Blockchain Manifesto
+  Year: 2020
+  Confidence: 1.000
+  Abstract: The process of implementing education globally basically cannot keep up with current developments. The education sector is currently facing various pr...
+
+• Blockchain Enabled Applications in the Education Domain and Potential Challenges
+  Year: 2023
+  Confidence: 1.000
+  Abstract: Blockchain is considered to be a disruptive technology that will have an impact on all avenues. There are several promising applications for Blockchai...
+
+
+Topic 20 - construction, industry, 40, sustainability, asset
+--------------------------------------------------------------------------------
+Total papers: 21
+
+• A Blockchain Based Fund Management System for Construction Projects - A Comprehensive Case Study in Xiong'an New Area China
+  Year: 2023
+  Confidence: 1.000
+  Abstract: As large-scale construction projects become increasingly complex, the use and integration of advanced technologies are being emphasized more and more....
+
+• Blockchain: Future Facilitator of Asset Information Modelling and Management?
+  Year: 2020
+  Confidence: 1.000
+  Abstract: Recently, businesses and government bodies in the Architecture, Engineering, and Construction (AEC) sector have faced a key challenge to the delivery ...
+
+• Integrating Blockchain & Emerging Technologies for Sustainability Assurance in the Built Environment
+  Year: 2023
+  Confidence: 1.000
+  Abstract: Sustainability within the built environment is increasingly important to our global community as it minimizes environmental impact whilst providing ec...
+
+
+Topic 21 - deep, learning, deep learning, detection, smart cities
+--------------------------------------------------------------------------------
+Total papers: 20
+
+• Blockchain Integration with Machine Learning for Securing Fog Computing Vulnerability in Smart City Sustainability
+  Year: 2023
+  Confidence: 1.000
+  Abstract: The advent of a smart city-based industrial Internet of Things (IIoT) is confidently built on the combined protocols of a virtual IPv6 addressing sche...
+
+• Blockchain-Assisted Secure Smart Home Network Using Gradient-Based Optimizer With Hybrid Deep Learning Model
+  Year: 2023
+  Confidence: 1.000
+  Abstract: The Internet of Things (IoT) refers to a technology enabler to enhance the urban physical architecture and render public services. But, public access ...
+
+• A Survey on Intrusion Detection System in Smart City: Security Concerns
+  Year: 2023
+  Confidence: 1.000
+  Abstract: Emergence of Internet of Things (IoT) -driven smart cities has brought both security and privacy challenges that demand effective countermeasures. Tra...
+
+
+Topic 22 - funds, corruption, tax, prototype, globe
+--------------------------------------------------------------------------------
+Total papers: 19
+
+• Blockchain Powered Government Financial System
+  Year: 2022
+  Confidence: 1.000
+  Abstract: This is the century of technology and digitization. Existing problems require modern solutions. The problems that have existed through decades or even...
+
+• Blockchain for government fund tracking using Hyperledger
+  Year: 2018
+  Confidence: 1.000
+  Abstract: Blockchain is one of the technology that has created a disruptive change in many industries. Currently, Blockchain is being used in several places and...
+
+• Government Fund Allocation and Tracking System Using Blockchain Technology
+  Year: 2024
+  Confidence: 1.000
+  Abstract: State governments should carry out many country duties. The business of public administration covers a wide variety of companies they goal various act...
+
+
+Topic 23 - consensus, algorithms, consensus algorithms, protocols, byzantine
+--------------------------------------------------------------------------------
+Total papers: 19
+
+• A Survey of Blockchain Consensus Algorithms
+  Year: 2022
+  Confidence: 1.000
+  Abstract: Blockchain is a distributed and decentralized data storage technology, which has been widely concerned by the government, research institutions and in...
+
+• Analyzing the Federated Byzantine Agreement Blockchain Network for Liveness Using Multiple Online Analytical Processing
+  Year: 2023
+  Confidence: 1.000
+  Abstract: Blockchain technology is widely implemented in various fields, such as government, health, and agronomy. However, various security vulnerabilities and...
+
+• Practical Vulnerabilities in Byzantine Fault-Tolerant Blockchain Consensus Protocols
+  Year: 2023
+  Confidence: 1.000
+  Abstract: Blockchain technology has gained widespread use across various industries, including finance and medicine. Private blockchains, particularly those uti...
+
+
+Topic 24 - document, documents, document verification, verification, electronic
+--------------------------------------------------------------------------------
+Total papers: 18
+
+• Blockchain Based Identity Verification Model
+  Year: 2019
+  Confidence: 1.000
+  Abstract: Blockchain is peer-to-peer decentralized system that provides security, reliability, authenticity, immutability and transparency. It is an expandable ...
+
+• Blockchain-enabled Dynamic Document Ownership Verification
+  Year: 2023
+  Confidence: 1.000
+  Abstract: With the advent of blockchain technology, many government bodies and industries are beginning to regulate blockchain technology in many areas of suppl...
+
+• Blockchain-based Document Verification Scheme for Enhanced Security and Fraud Control
+  Year: 2024
+  Confidence: 1.000
+  Abstract: In this day and age of digital technology, the verification of documents plays an essential part in a variety of spheres, including the validation of ...
+
+
+Topic 25 - tender, tendering, procurement, project, auction
+--------------------------------------------------------------------------------
+Total papers: 18
+
+• Government Tender Allocation Using Blockchain Technology
+  Year: 2023
+  Confidence: 1.000
+  Abstract: The objective of this paper is to present a blockchain-based tender allocation project that aims to use blockchain technology's decentralized and secu...
+
+• Design of a Blockchain-based e-Tendering System: A Case Study in LPSE
+  Year: 2019
+  Confidence: 1.000
+  Abstract: The tender process is a long and complex business process to produce a series of legal obligations related to business contracts. The purpose of condu...
+
+• Blockchain-based e-Tendering System
+  Year: 2020
+  Confidence: 1.000
+  Abstract: The tendering process is generally used by governments and companies to procure goods or services from manufacturing companies or service providers. H...
+
+
+Topic 26 - energy, renewable, renewable energy, power, sustainable
+--------------------------------------------------------------------------------
+Total papers: 16
+
+• Blockchain application within Net-Zero Energy Factories. A cost-benefit analysis for a German carpentry
+  Year: 2022
+  Confidence: 1.000
+  Abstract: The planning of Net-Zero Energy Factories might contribute to the better integration of power generated by volatile renewable energy sources into manu...
+
+• The Application of Blockchain for the Management of Engineering Projects in Power System
+  Year: 2020
+  Confidence: 1.000
+  Abstract: As the government becomes more stringent in the supervision of engineering projects in power system, power grid companies have higher standards for th...
+
+• A Taxonomy of the Risks and Challenges of Embracing Blockchain Smart Contracts in Facilitating Renewable Electricity Transactions
+  Year: 2022
+  Confidence: 1.000
+  Abstract: Environmental imperatives and global energy supply crisis are driving interests in the renewable electricity industry. Yet, the revenue risks of renew...
+
+
+Topic 27 - encryption, attribute, access, access control, scheme
+--------------------------------------------------------------------------------
+Total papers: 15
+
+• Security sharing of smart city communication data based on blockchain technology
+  Year: 2023
+  Confidence: 1.000
+  Abstract: When the smart city communication data is safely shared, the sharing process is mainly realized through single authorization attribute base encryption...
+
+• A Secure and Trusted Data Sharing Scheme Based on Blockchain for Government Data
+  Year: 2022
+  Confidence: 1.000
+  Abstract: There are many problems existing in government data sharing, such as poor security, privacy disclosure and low tamper-resistant modification. To addre...
+
+• Data Access & Sharing Approach for Trade Documentations Based on Blockchain Technology
+  Year: 2019
+  Confidence: 1.000
+  Abstract: Nowadays, there are many documents involved in cross-border trade transactions. A multitude of documents have to be inter-exchanged between two main c...
+
+
+Topic 28 - public value, egovernment, digital government, value, citizens
+--------------------------------------------------------------------------------
+Total papers: 14
+
+• The Challenges and Opportunities in Adopting AI, IoT and Blockchain Technology in E-Government: A Systematic Literature Review
+  Year: 2022
+  Confidence: 1.000
+  Abstract: Over the past decades, governments around the world are implementing a variety of digital solutions in order to enhance the effectiveness, efficiency,...
+
+• Assessing E-Government Systems on Public Service Delivery in Ghana: A Bibliometric Analysis
+  Year: 2025
+  Confidence: 1.000
+  Abstract: This research undertakes a bibliometric analysis of e-government studies services from 2020 to 2024. Significant research trends, impactful publicatio...
+
+• Digital Transformation Through Blockchain Usgae Towards Data Security
+  Year: 2023
+  Confidence: 1.000
+  Abstract: Digital transformation in government-provided services emerges as a vibrant element towards governance resilience. The integration of technological ad...
+
+
+Topic 29 - carbon, emission, trading, emissions, carbon trading
+--------------------------------------------------------------------------------
+Total papers: 14
+
+• Construction of Carbon Trading Platform using Sovereignty Blockchain
+  Year: 2020
+  Confidence: 1.000
+  Abstract: Carbon trading is a property right granted by governments or international organizations to the right to emit greenhouse gases including carbon dioxid...
+
+• Research on blockchain-based carbon emission early warning method
+  Year: 2022
+  Confidence: 1.000
+  Abstract: Under the current carbon management system, carbon emissions cannot be accurately calculated or normalized on a case-by-case basis, which is not condu...
+
+• A Carbon Emissions Verification Mechanism Based on Blockchain and Reverse Auction
+  Year: 2023
+  Confidence: 1.000
+  Abstract: With the establishment of the Carbon Peaking and Carbon Neutrality targets, Carbon Emissions Trading(CET), as an important emissions reduction policy ...
+
+
+Topic 30 - drones, uavs, uav, unmanned, monitoring
+--------------------------------------------------------------------------------
+Total papers: 12
+
+• BHMUS: Blockchain Based Secure Outdoor Health Monitoring Scheme Using UAV in Smart City
+  Year: 2019
+  Confidence: 1.000
+  Abstract: Unmanned aerial vehicle (UAV) is an emerging technology that becomes popular not only in military operation but also in civil applications. Internet o...
+
+• Referenced Blockchain Approach for Road Traffic Monitoring in a Smart City using Internet of Drones
+  Year: 2022
+  Confidence: 1.000
+  Abstract: The global escalation in the road traffic density alleviates the harmful emissions and fuel bills due to congestion and misaligned traffic control. Th...
+
+• Secure Data Sharing for Unmanned Aerial Vehicles: A Blockchain Perspective
+  Year: 2025
+  Confidence: 1.000
+  Abstract: Unmanned Aerial Vehicles (UAVs) are flying robots controlled remotely and autonomously. UAVs are becoming increasingly popular among industries and go...
+
